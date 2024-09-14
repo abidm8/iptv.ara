@@ -173,12 +173,6 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/playllist.m3u8
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/playllist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/MdYjMWH.png" group-title="OMAN",Oman Mubashir
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/playllist.m3u8
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_muzik.png" group-title="MUSIC",TRT Musik
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1  tvg-logo="https://qanawat.taghtia.com/assets/channels/wanasah.png" group-title="MUSIC",Wanasah
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/inJyJBN.png" group-title="MUSIC",Shada tv
-https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/7uv5Feu.png" group-title="MOROCCO",M24
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/gHwCFb0.png" group-title="MOROCCO",Medi 1
@@ -263,3 +257,9 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklis
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="TEST",Test
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_muzik.png" group-title="MUSIC",TRT Musik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1  tvg-logo="https://qanawat.taghtia.com/assets/channels/wanasah.png" group-title="MUSIC",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/inJyJBN.png" group-title="MUSIC",Shada tv
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
