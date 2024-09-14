@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_quran_al_kareem_tv.png" group-title="KSA",Al Quran Makkah
+#EXTINF:-1  tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/quran.ksa.png?raw=true" group-title="KSA",Al Quran Makkah
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/84nqj99.png" group-title="KSA",Al Sunnah Al Nabawiyah TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
