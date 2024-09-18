@@ -261,5 +261,5 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/inJyJBN.png" group-title="MUSIC",Shada tv
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8 
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)",tvg-logo="" group-title="TEST",Test
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)",tvg-logo=" group-title="TEST",Test
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
