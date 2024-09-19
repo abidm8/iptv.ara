@@ -2,7 +2,7 @@
 #EXTINF:-1  tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/quran.ksa.png?raw=true" group-title="KSA",Al Quran Makkah
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sunnah.ksa.png?raw=true" group-title="KSA",Al Sunnah Al Nabawiyah TV
-https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=sunna_tv&t=79f7a4371eafa3cc3861aa3ae2b8d7ac
+https://video.twimg.com/amplify_video/1836461596362633216/pl/nWo6PvE85O8KFttj.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/aljazeera.news.png?raw=true" group-title="NEWS",Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_jazeera_mubasher.png" group-title="NEWS",Al Jazeera Mubasher
