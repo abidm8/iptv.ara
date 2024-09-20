@@ -24,6 +24,10 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/alhurra-tv-us.png" group-title="NEWS",Al Hurra
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900-b/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/W5lPsN1-pNqC2yd4QfhgKlDOsqFBjdD06gvmbqDrvOqgbPuBO1GOej0fAl5sqJV1zw4l_mTN5w=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/I1vyjS1.png" group-title="NEWS",Al Manaar
+https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/sky_news_arabia.jpg?v=6" group-title="NEWS",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="NEWS",Asharq News
