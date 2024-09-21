@@ -267,4 +267,4 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 #EXTINF:-1  tvg-logo="https://i.imgur.com/inJyJBN.png" group-title="MUSIC",Shada tv
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8 
 #EXTINF:-1  tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sunnah.ksa.png?raw=true" group-title="KSA",Al Sunnah Al Nabawiyah TV (n/a)
-https://video.twimg.com/amplify_video/1836461596362633216/pl/nWo6PvE85O8KFttj.m3u8
+https://sunna-tv-prod-dub-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.mpd?aws.manifestfilter=video_height:144-720;video_codec:H264
