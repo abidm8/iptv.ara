@@ -31,9 +31,9 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/sky_news_arabia.jpg" group-title="NEWS",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="NEWS",DW Arabic
+#EXTINF:-1  tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="NEWS",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-logo="https://static7.tgstat.ru/channels/_0/19/19811fd65a1b507f8211225450ee4249.jpg", group-title="NEWS",RT ARABIC
+#EXTINF:-1  tvg-logo="https://static7.tgstat.ru/channels/_0/19/19811fd65a1b507f8211225450ee4249.jpg", group-title="NEWS",RT ARABIC
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="NEWS",Asharq News
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
@@ -97,6 +97,8 @@ https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8?v=1354583377
 #EXTINF:-1  tvg-logo="https://aloula.faulio.com/storage/mediagallery/89/52/small_e07b4198a85a2bc1b3c0733a71f61dd010dec85d.png" group-title="KSA",Saudi 1
 https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
+#EXTINF:-1  tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="KSA",Makkah tv
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/thikrayat_tv.jpg" group-title="KSA",Thikriyaat
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="KSA",Atfal wa Mawahib
@@ -281,10 +283,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/HvEQxiZ.png" group-title="BAHRAIN",Bahrain Int
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.alminasapress.com/user_images/sources/2019-09-06-89541.png",group-title="YEMEN",Yemen SHabab
+#EXTINF:-1 tvg-logo="https://www.alminasapress.com/user_images/sources/2019-09-06-89541.png" group-title="YEMEN",Yemen SHabab
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1  tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="KSA",Makkah tv
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_muzik.png" group-title="MUSIC",TRT Musik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-logo="https://qanawat.taghtia.com/assets/channels/wanasah.png" group-title="MUSIC",Wanasah
