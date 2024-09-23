@@ -143,6 +143,8 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playllist.m3u8
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/rr/rotana_classic.png" group-title="MOVIES",Rotana Classic
 https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq6xrmtZQ2DzaBHjWI-K_NH7e1nroyvlfDfw&usqp=CAU" group-title="MOVIES",ONE|MOVIES
+https://ffs.gulfsat.com/OneMovies/video.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qatar_tv.png" group-title="QATAR",Qatar tv
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar-tv-2-qa.png" group-title="QATAR",Qatar 2
@@ -267,6 +269,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/HvEQxiZ.png" group-title="BAHRAIN",Bahrain Int
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.alminasapress.com/user_images/sources/2019-09-06-89541.png",group-title="YEMEN",Yemen SHabab
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1  tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="KSA",Makkah tv
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_muzik.png" group-title="MUSIC",TRT Musik
