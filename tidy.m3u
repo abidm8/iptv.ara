@@ -275,7 +275,17 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/inJyJBN.png" group-title="MUSIC",Shada tv
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sunnah.ksa.png?raw=true" group-title="KSA",Al Sunnah Al Nabawiyah TV (n/a)
-https://sunna-tv-prod-dub-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.mpd?aws.manifestfilter=video_height:144-720;video_codec:H264
 #EXTINF:-1  tvg-logo="https://www.elahmad.com/tv/mobiletv/images/peacetv.jpg?v=6" group-title="KSA",Peace tv
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Od_b-k8UAim02JuNK6eQ4WVwnkMrTmDEFOB0ioczPIFlRaSmBeQRJ5BVE4xeaK6H2nXXiLZv=s900-c-k-c0x00ffffff-no-rj" group-title="Jordan",Roya
+https://roya-live.ercdn.net/roya/roya_1080p.m3u8?st=VoLdsxUW66543iYdtr9Oag&e=1727147449
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/I_MEfeY8Z97Zb8nxgjGK40R0g7WiP3U9YP5CKDQUYQsM6FkpK95FtQaKAFSWQN2KPn20VEjV=s900-c-k-c0x00ffffff-no-rj" group-title="Jordan",Roya News
+https://roya-live.ercdn.net/royanews/royanews_1080p.m3u8?st=KP2EjZ56G5wjVavYOeQ-6w&e=1727146322
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fpeople%2F5d77687d103a2d001f573358.jpg" group-title="Jordan",Roya (Adil Imam)
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/adel-imam-movies/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://www.telemaroc.tv/storage/thumbnails/beldpHs0Po2CGMHfn7r9hrrGJ6mriEzRV97oghs8.jpeg" group-title="Jordan",Roya (Plays)
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat-vms/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zwmos8oDu73zuV8WUxzJKd8bYfvO2JogguZdnePnlV2kdXQVDX7o1f7J9znfbI2fIkCImgxS=s900-c-k-c0x00ffffff-no-rj" group-title="Jordan",Roya (Watan A Watar)
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar-vms/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xfrSarPttF08ZNE5jVxwYc1TflTFkJG48x88j3tBrp0vVKFY2R-idHEJZ4JgwoX1zpJzjdm5YA=s900-c-k-c0x00ffffff-no-rj" group-title="Jordan",Roya (Maraya)
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist/0.m3u8
