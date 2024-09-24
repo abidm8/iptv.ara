@@ -295,10 +295,8 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8 
 #EXTINF:-1  tvg-logo="https://www.elahmad.com/tv/mobiletv/images/peacetv.jpg?v=6" group-title="KSA",Peace tv
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Od_b-k8UAim02JuNK6eQ4WVwnkMrTmDEFOB0ioczPIFlRaSmBeQRJ5BVE4xeaK6H2nXXiLZv=s900-c-k-c0x00ffffff-no-rj" group-title="Jordan",Roya
-https://roya-live.ercdn.net/roya/roya_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/I_MEfeY8Z97Zb8nxgjGK40R0g7WiP3U9YP5CKDQUYQsM6FkpK95FtQaKAFSWQN2KPn20VEjV=s900-c-k-c0x00ffffff-no-rj" group-title="Jordan",Roya News
-https://roya-live.ercdn.net/royanews/royanews.m3u8
+https://roya-live.ercdn.net/royanews/royanews.m3u8?st=b0JNi0wdbZo0ILppGlVb8Q&e=1727206455
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fpeople%2F5d77687d103a2d001f573358.jpg" group-title="Jordan",Roya (Adil Imam)
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/adel-imam-movies/playlist/0.m3u8
 #EXTINF:-1 tvg-logo="https://www.telemaroc.tv/storage/thumbnails/beldpHs0Po2CGMHfn7r9hrrGJ6mriEzRV97oghs8.jpeg" group-title="Jordan",Roya (Plays)
