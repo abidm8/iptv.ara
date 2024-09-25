@@ -177,6 +177,10 @@ https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaNews.iq" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="IRAQ",Al Iraqia News
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://yt3.googleusercontent.com/SXTkGOihGe7y32EZxC8NVE_0IViGk9enKSdXcrhTGoh01fE-oKSIB_GgjDt7kDYylT5ViKd8sg=s900-c-k-c0x00ffffff-no-rj" group-title="IRAQ",Sharqiya
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/98/74/85/98748552-02a2-9851-aa89-452a645a8d9a/AppIcon-1x_U007emarketing-85-220-0-5.jpeg/1200x630wa.png" group-title="IRAQ",Sharqiya NEWS
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://i.imgur.com/9qFHjnu.png" group-title="IRAQ",UTV
 https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/zagrosnews.jpg" group-title="IRAQ",Zagros
@@ -329,12 +333,8 @@ https://med-musik.icdndhcp.com/live3/live3.m3u8
 http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42noysO.png" group-title="Undefined",Rojava TV
 https://rojava-tv.akamaized.net/hls/rojava-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JSvJpD8.png" group-title="KURDISH",Ronahi TV
-https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="KURDISH",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SterkTV.be" tvg-logo="https://i.imgur.com/bIheNAI.png" group-title="KURDISH",Stêrk TV
-https://muzkurd.com/sterktv/sterk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rK0y02d.png" group-title="KURDISH",Waar TV
 https://ca-rt.onetv.app/Waar/index-0.m3u8
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/03/88/22/21/360_F_388222175_D6PTsMoUyegpPJ63zvkecPsZAttc95mD.jpg" group-title="KURDISH",Zoom TV Kurdish
@@ -343,5 +343,3 @@ https://live.zoomnews.info/live/Zoom_playlist.m3u8
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="KURDISH",Zarok TV Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-
-
