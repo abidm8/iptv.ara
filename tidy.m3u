@@ -45,8 +45,8 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 https://s1.ettehadlive.com/live/68/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/maan_tv_ps.png" group-title="NEWS",Maan
 http://htvmada.mada.ps:8888/maannews/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="JORDAN",Jordan TV
-https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
+#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="JORDAN",JORDAN TV
+https://jrtv-live.ercdn.net/JORDANhd/JORDANhd_1080p.m3u8
 #EXTINF:-1  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/royatv.jpg" group-title="JORDAN",Roya
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8?v=1442954305
 #EXTINF:-1  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/amman_tv.jpg" group-title="JORDAN",Amman
@@ -249,25 +249,25 @@ https://shls-live-ak.akamaized.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index
 https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/xRXr79N.png" group-title="MBC",Elkebir Awi
 https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/r/1N/35661/Poster.png" group-title="JORDAN",Jordan Archive
+#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/r/1N/35661/Poster.png" group-title="JORDAN",JORDAN Archive
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist/1.m3u8
-#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/T/MO/24797/Poster.png" group-title="JORDAN",Jordan Siyahah
+#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/T/MO/24797/Poster.png" group-title="JORDAN",JORDAN Siyahah
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist/3.m3u8
-#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/M/QB/35662/Poster.png" group-title="JORDAN",Jordan Music
+#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/M/QB/35662/Poster.png" group-title="JORDAN",JORDAN Music
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist/3.m3u8
-#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/Z/ul/23833/Poster.png" group-title="JORDAN",Jordan Drama
+#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/Z/ul/23833/Poster.png" group-title="JORDAN",JORDAN Drama
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist/0.m3u8
-#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/b/ZU/35660/Poster.png" group-title="JORDAN",Jordan Cooking
+#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/b/ZU/35660/Poster.png" group-title="JORDAN",JORDAN Cooking
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist/3.m3u8
-#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/e/pn/23834/Poster.png" group-title="JORDAN",Jordan Comedy
+#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/e/pn/23834/Poster.png" group-title="JORDAN",JORDAN Comedy
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist/1.m3u8
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fpeople%2F5d77687d103a2d001f573358.jpg" group-title="Jordan",Roya (Adil Imam)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fpeople%2F5d77687d103a2d001f573358.jpg" group-title="JORDAN",Roya (Adil Imam)
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/adel-imam-movies/playlist/0.m3u8
-#EXTINF:-1 tvg-logo="https://www.telemaroc.tv/storage/thumbnails/beldpHs0Po2CGMHfn7r9hrrGJ6mriEzRV97oghs8.jpeg" group-title="Jordan",Roya (Plays)
+#EXTINF:-1 tvg-logo="https://www.telemaroc.tv/storage/thumbnails/beldpHs0Po2CGMHfn7r9hrrGJ6mriEzRV97oghs8.jpeg" group-title="JORDAN",Roya (Plays)
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat-vms/playlist/0.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zwmos8oDu73zuV8WUxzJKd8bYfvO2JogguZdnePnlV2kdXQVDX7o1f7J9znfbI2fIkCImgxS=s900-c-k-c0x00ffffff-no-rj" group-title="Jordan",Roya (Watan A Watar)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zwmos8oDu73zuV8WUxzJKd8bYfvO2JogguZdnePnlV2kdXQVDX7o1f7J9znfbI2fIkCImgxS=s900-c-k-c0x00ffffff-no-rj" group-title="JORDAN",Roya (Watan A Watar)
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar-vms/playlist/0.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xfrSarPttF08ZNE5jVxwYc1TflTFkJG48x88j3tBrp0vVKFY2R-idHEJZ4JgwoX1zpJzjdm5YA=s900-c-k-c0x00ffffff-no-rj" group-title="Jordan",Roya (Maraya)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xfrSarPttF08ZNE5jVxwYc1TflTFkJG48x88j3tBrp0vVKFY2R-idHEJZ4JgwoX1zpJzjdm5YA=s900-c-k-c0x00ffffff-no-rj" group-title="JORDAN",Roya (Maraya)
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist/0.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/hh/hala-london-uk.png" group-title="LEBANON",Hona London
 https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
