@@ -309,7 +309,7 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/oo/oman_tv_sport.png" group-title="SPORT",Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playllist.m3u8
-#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_1.jpg" group-title="SPORT",Al Kass 1
+#EXTINF:-1 tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass1.png?raw=true" group-title="SPORT",Al Kass 1
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1buo/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_2.jpg" group-title="SPORT",Al Kass 2
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
