@@ -301,6 +301,3 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/oo/oman_tv_sport.png" group-title="SPORT",Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playllist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/I_MEfeY8Z97Zb8nxgjGK40R0g7WiP3U9YP5CKDQUYQsM6FkpK95FtQaKAFSWQN2KPn20VEjV=s900-c-k-c0x00ffffff-no-rj" group-title="Jordan",Roya News
-https://roya-live.ercdn.net/royanews/royanews.m3u8?st=b0JNi0wdbZo0ILppGlVb8Q&e=1727206455
-
