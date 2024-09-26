@@ -46,7 +46,7 @@ https://s1.ettehadlive.com/live/68/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/maan_tv_ps.png" group-title="NEWS",Maan
 http://htvmada.mada.ps:8888/maannews/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="JORDAN",JORDAN TV
-https://jrtv-live.ercdn.net/JORDANhd/JORDANhd_1080p.m3u8
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
 #EXTINF:-1  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/royatv.jpg" group-title="JORDAN",Roya
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8?v=1442954305
 #EXTINF:-1  tvg-logo="http://www.elahmad.com/tv/mobiletv/images/amman_tv.jpg" group-title="JORDAN",Amman
