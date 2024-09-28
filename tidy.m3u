@@ -175,7 +175,7 @@ https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://yt3.googleusercontent.com/TM39oVt0vuhpzzvuD7i6Eo8KTS0em7-6vIaGk1Z0-CZUvP5rW0s6DzdoPWJLnTTK5WAyLzjbvg=s160-c-k-c0x00ffffff-no-rj" group-title="IRAQ",Iraq tv
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1  tvg-id="AlIraqiaNews.iq" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="IRAQ",Al Iraqia News
+#EXTINF:-1  tvg-id="AlIraqiaNews.iq" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/news.iq.png?raw=true" group-title="IRAQ",Al Iraqia News
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1  tvg-id="UTV.iq" tvg-logo="https://yt3.googleusercontent.com/SXTkGOihGe7y32EZxC8NVE_0IViGk9enKSdXcrhTGoh01fE-oKSIB_GgjDt7kDYylT5ViKd8sg=s900-c-k-c0x00ffffff-no-rj" group-title="IRAQ",Sharqiya
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
