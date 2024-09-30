@@ -107,10 +107,6 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkhaleej.ksa.png?raw=true" group-title="KSA",Al Khaleej
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/tunis1.png?raw=true" group-title="TUNIS",Tunisia 1
-http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/tunis2.png?raw=true" group-title="TUNIS",Tunisia 2
-http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/syria.sy.png?raw=true" group-title="SYRIA",Syria
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ltv.sy.png?raw=true" group-title="SYRIA",Ltv Syria
@@ -118,13 +114,13 @@ https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alyaum.sy.png?raw=true" group-title="SYRIA",Al Yaum tv
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/qatar1.qa.png?raw=true" group-title="QATAR",Qatar tv
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/qatar2.qa.png?raw=true" group-title="QATAR",Qatar 2
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/4.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rayyan1.qa.png?raw=true" group-title="QATAR",Al Rayyan 1
-https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_1080p/chunks_dvr.m3u8
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rayyan2.qa.png?raw=true" group-title="QATAR",Al Rayyan Qadeem
-https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alaraby2.qa.png?raw=true" group-title="QATAR",Al Arabi 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/palestinelive.ps.png?raw=true" group-title="NEWS",Palestine Live
@@ -224,7 +220,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mbc4.png?raw=true" group-title="MBC",MBC4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mbc.drama.png?raw=true" group-title="MBC",MBC Drama
-https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shahid.movies.png?raw=true" group-title="MOVIES",Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shahid.action.png?raw=true" group-title="MOVIES",M Action
@@ -349,3 +345,7 @@ https://live.zoomnews.info/live/Zoom_playlist.m3u8
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="KURDISH",Zarok TV Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/tunis1.png?raw=true" group-title="OOO",Tunisia 1
+http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/tunis2.png?raw=true" group-title="OOO",Tunisia 2
+http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
