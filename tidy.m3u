@@ -51,6 +51,10 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8?v=1442954305
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/amman.jo.png?raw=true" group-title="JORDAN",Amman
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/kayfa.jo.png?raw=true" group-title="JORDAN",kayfa tv
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/aonetv.jo.png?raw=true" group-title="JORDAN",Aonetv
+http://82.212.74.5:8000/live/2011.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/fact.jo.png?raw=true" group-title="JORDAN",Al Haqiqah Jo
 https://ghaasiflu.online/alhqeqa/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/iqraa.ksa.png?raw=true" group-title="KSA",Iqra
