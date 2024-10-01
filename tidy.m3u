@@ -355,7 +355,9 @@ https://live.zoomnews.info/live/Zoom_playlist.m3u8
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="KURDISH",Zarok TV Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/test.png?raw=true" group-title="TEST",Maspiro
+https://edge66.magictvbox.com/liveApple/Maspiro_Zaman/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/test.png?raw=true" group-title="TEST",TVM1
+http://tgn.bozztv.com/gin-36bay4/gin-AlAoula/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDI0IDEyOjI0OjMxIEFNJmhhc2hfdmFsdWU9Ymx3ZnRoYzd5d0xnTWxqakpwMXU1QT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIy
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/test.png?raw=true" group-title="TEST",bein connect
+https://live2.beinconnect.us/YallaGoalApp/beINSports4.m3u8
