@@ -57,6 +57,8 @@ http://82.212.74.2:8000/live/hls/7311.m3u8
 http://82.212.74.5:8000/live/2011.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/fact.jo.png?raw=true" group-title="JORDAN",Al Haqiqah Jo
 https://ghaasiflu.online/alhqeqa/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/quartz.jo.png?raw=true" group-title="JORDAN",Quartz tv
+http://82.212.74.2:8000/live/2424.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/iqraa.ksa.png?raw=true" group-title="KSA",Iqra
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8?v=1354583377
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/makkah.ksa.png?raw=true" group-title="KSA",Makkah tv
