@@ -63,6 +63,8 @@ https://ghaasiflu.online/alhqeqa/index.m3u8
 http://82.212.74.2:8000/live/2424.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/iqraa.ksa.png?raw=true" group-title="KSA",Iqra
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8?v=1354583377
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sad.ksa.png?raw=true" group-title="KSA",SAD TV
+https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/makkah.ksa.png?raw=true" group-title="KSA",Makkah tv
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/qaf.ksa.png?raw=true" group-title="KSA",QAF TV
