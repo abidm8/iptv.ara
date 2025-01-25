@@ -347,15 +347,6 @@ https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 https://htvmada.mada.ps:4443/wattan/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/salam.ps.png?raw=true" group-title="PALESTINE",Al Salam
 https://htvmada.mada.ps:4443/salamtv/index.m3u8?v=1442954305
-
-
-
-#EXTINF:-1  tvg-id="" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC8lyUWY9tEt-ct_I51TGmEQ%2Fvideos&psig=AOvVaw21Mz7Dn5VvCHEoNnEIleY4&ust=1728167814948000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiTzvfk9YgDFQAAAAAdAAAAABAE" group-title="LIBYA",New Libya
-http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/18960.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://yt3.googleusercontent.com/HohOIPtC52DY_s22PooaP_vhNki_mVHdgF1p8se7GmunJiSLedPwGT6h45zHyHPU9sHvb8_o_g=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT",JORDAN SPORT
-http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/6724.m3u8
-
-
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/makan.ps.png?raw=true" group-title="kan",Makan
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/512px-Kan11Logo.svg.png" group-title="kan",kan
@@ -366,6 +357,13 @@ https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/hd
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/Iq2Kb69.png" group-title="kan",14
 https://channel14-live-consume.immergo.tv/output/master.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC8lyUWY9tEt-ct_I51TGmEQ%2Fvideos&psig=AOvVaw21Mz7Dn5VvCHEoNnEIleY4&ust=1728167814948000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiTzvfk9YgDFQAAAAAdAAAAABAE" group-title="LIBYA",New Libya
+http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/18960.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://yt3.googleusercontent.com/HohOIPtC52DY_s22PooaP_vhNki_mVHdgF1p8se7GmunJiSLedPwGT6h45zHyHPU9sHvb8_o_g=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT",JORDAN SPORT
+http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/6724.m3u8
+
+
+
 
 
 
