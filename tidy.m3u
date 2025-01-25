@@ -153,8 +153,6 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/hala.ps.png?raw=true" group-title="PALESTINE",Hala tv
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/makan.ps.png?raw=true" group-title="PALESTINE",Makan
-https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/falastini.ps.png?raw=true" group-title="PALESTINE",Falastini
 https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/nablus.ps.png?raw=true" group-title="PALESTINE",Nablus
@@ -356,4 +354,18 @@ https://htvmada.mada.ps:4443/salamtv/index.m3u8?v=1442954305
 http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/18960.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://yt3.googleusercontent.com/HohOIPtC52DY_s22PooaP_vhNki_mVHdgF1p8se7GmunJiSLedPwGT6h45zHyHPU9sHvb8_o_g=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT",JORDAN SPORT
 http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/6724.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/makan.ps.png?raw=true" group-title="kan",Makan
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/512px-Kan11Logo.svg.png" group-title="kan",kan
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/fY3eakc.png" group-title="kan",12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/hdntl=exp=1678643062~acl=%2f*~data=hdntl~hmac=18c79b0af2b2719de95b2a0adb22904c97558548be9d2e7185eb045805a10abd/profileManifest.m3u8?_uid=9eb5dcb7-bbf0-4cf6-87d0-73127c4116b6&rK=a2
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="kan",13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/Iq2Kb69.png" group-title="kan",14
+https://channel14-live-consume.immergo.tv/output/master.m3u8
+
+
+
 
