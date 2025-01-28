@@ -279,8 +279,8 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist/3.m3u8
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shada.mo.png?raw=true" group-title="MUSIC",Shada tv
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/282f231a13276336523de10ab00149c8f68a0da9a563c9af0e245b98f46d7d75.png" group-title="SPORT",HUNT TV
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ajman.png?raw=true" group-title="MUSIC",Ajman
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/abudhabi.s1.png?raw=true" group-title="SPORT",Abu Dhabi Sport 1
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/abudhabi.s2.png?raw=true" group-title="SPORT",Abu Dhabi Sport 2
