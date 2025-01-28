@@ -57,8 +57,12 @@ https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/bbc.png?raw=true" group-title="NEWS",BBC Arabic
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="NEWS",France 24
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/france24.png?raw=true" group-title="NEWS",France 24
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/MonteCarloDoualiya_2013.svg/1024px-MonteCarloDoualiya_2013.svg.png" group-title="NEWS",MCD
+https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
+
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alhurra.png?raw=true" group-title="NEWS",Al Hurra
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900-b/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/i24.png?raw=true" group-title="NEWS",i24 Arabic
