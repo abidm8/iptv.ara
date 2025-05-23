@@ -1,12 +1,16 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alquran.ksa.png?raw=true" group-title="KSA",Al Quran Makkah
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/quran.ae.png?raw=true" group-title="UAE",Al Quran Shrja
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="KSA",Iqraa Quran
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/ut0kr4x.png" group-title="KSA",Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sunnah.ksa.png?raw=true" group-title="KSA",AsSunnah
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/laEk64E.png" group-title="KSA",Nidae AlIslam Radio
+https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeera.qa.png?raw=true" group-title="NEWS",Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="NEWS",Al Jazeera Mubasher
@@ -38,7 +42,7 @@ https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/in
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alarabiya-p.jpg?raw=true" group-title="NEWS",Cairo News
 https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/news.ksa.png?raw=true" group-title="NEWS",Saudi News
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/watan.eg.png?raw=true" group-title="NEWS",Watan Eg
 https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sharq.eg.png?raw=true" group-title="NEWS",Elsharq Eg
