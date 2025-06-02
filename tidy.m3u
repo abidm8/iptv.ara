@@ -90,6 +90,7 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/maan.ps.png?raw=true" group-title="NEWS",Maan
 http://htvmada.mada.ps:8888/maannews/index.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/asharqdo.ksa.png?raw=true" group-title="DOC",Asharq Doc
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/asharqd.ksa.png?raw=true" group-title="DOC",Asharq Discovery
@@ -103,7 +104,6 @@ https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://yt3.googleusercontent.com/PCkHOM7JqjnBv8QLK2gc7eRafnsEe-WUonGeyIJI-8-oIzmtHqHPiz_SE9kn0V3K1q3PjNUKsw=s900-c-k-c0x00ffffff-no-rj" group-title="DOC",Saudi Culture
 https://thaqafeyyah-enc.edgenextcdn.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
 
-
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jrtv.jo.png?raw=true" group-title="JORDAN",Jordan tv
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/roya.jo.png?raw=true" group-title="JORDAN",Roya
@@ -115,7 +115,10 @@ https://ghaasiflu.online/alhqeqa/index.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/saudi.ksa.png?raw=true" group-title="KSA",Saudi 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/thikrayat.sa.png?raw=true" group-title="KSA",Thikriyaat
+https://live.kwikmotion.com/zikrayatlive/zikrayat.smil/playlist_dvr.m3u8?hdnts=exp=1748866319~acl=/zikrayatlive/zikrayat.smil/*~hmac=5a0f7b278b4b3e3eecfbad3f3e9b763028f5e2dc6fbde6b2c0aa8d419290e11d
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkhaleej.ksa.png?raw=true" group-title="KSA",Al Khaleej
+http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sbc.ksa.png?raw=true" group-title="KSA",SBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/bedaya.ksa.png?raw=true" group-title="KSA",Bedaya
@@ -126,6 +129,7 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/peacetv.png?raw=true" group-title="KSA",Peace tv
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/noor.ae.png?raw=true" group-title="UAE",Noor Dubai
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/abudhabi.ae.png?raw=true" group-title="UAE",Abu Dhabi
@@ -154,16 +158,15 @@ https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chun
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/one.ae.png?raw=true" group-title="UAE",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/thikrayat.sa.png?raw=true" group-title="KSA",Thikriyaat
-https://live.kwikmotion.com/zikrayatlive/zikrayat.smil/playlist_dvr.m3u8?hdnts=exp=1748866319~acl=/zikrayatlive/zikrayat.smil/*~hmac=5a0f7b278b4b3e3eecfbad3f3e9b763028f5e2dc6fbde6b2c0aa8d419290e11d
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkhaleej.ksa.png?raw=true" group-title="KSA",Al Khaleej
-http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/syria.sy.png?raw=true" group-title="SYRIA",Syria
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/syria2.png?raw=true" group-title="SYRIA",Syria 2
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ltv.sy.png?raw=true" group-title="SYRIA",Ltv Syria
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/qatar1.qa.png?raw=true" group-title="QATAR",Qatar tv
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/qatar2.qa.png?raw=true" group-title="QATAR",Qatar 2
@@ -174,9 +177,9 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/li
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alaraby2.qa.png?raw=true" group-title="QATAR",Al Arabi 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/wattar.ps.png?raw=true" group-title="PALESTINE",Watar
 http://htvint.mada.ps:8889/orient/index.m3u8
-
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rajeen.ps.png?raw=true" group-title="PALESTINE",Rajeen
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/najah.ps.png?raw=true" group-title="PALESTINE",AL Najaah
@@ -193,22 +196,25 @@ https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
 https://htvint.mada.ps/nabluslive/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ajyal.ps.png?raw=true" group-title="PALESTINE",Ajyal
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8?v=1354583377
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/wattan.ps.png?raw=true" group-title="PALESTINE",Watan
+https://htvmada.mada.ps:4443/wattan/index.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/oman.om.png?raw=true" group-title="OMAN",Oman tv
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/playllist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/culture.om.png?raw=true" group-title="OMAN",Oman Culture
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/playllist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/news.om.png?raw=true" group-title="OMAN",Oman Mubashir
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/playllist.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ktv1.kw.png?raw=true" group-title="KUWAIT",Kuwait tv
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/qurein.kw.png?raw=true" group-title="KUWAIT",Al Querain
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
-
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ktv2.kw.png?raw=true" group-title="KUWAIT",Kuwait 2
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/iraq.iq.png?raw=true" group-title="IRAQ",Iraq tv
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sharqiya.iq.png?raw=true" group-title="IRAQ",Sharqiya
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/dijlah.iq.png?raw=true" group-title="IRAQ",Dijlah TV
@@ -239,6 +245,15 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklis
 https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/telemaroc.png?raw=true" group-title="MOROCCO",Tele Maroc
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/telmar.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shada.mo.png?raw=true" group-title="MUSIC",Shada tv
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" http-referrer="https://2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
+#EXTVLCOPT:http-referrer=https://2m.ma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+
+
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mbc.png?raw=true" group-title="MBC",MBC
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mbc.eg.png?raw=true" group-title="MBC",MBC Egypt
@@ -305,12 +320,6 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist/3.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/wanasah.png?raw=true" group-title="MUSIC",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shada.mo.png?raw=true" group-title="MUSIC",Shada tv
-https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" http-referrer="https://2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
-#EXTVLCOPT:http-referrer=https://2m.ma
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ajman.png?raw=true" group-title="MUSIC",Ajman
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/abudhabi.s1.png?raw=true" group-title="SPORT",Abu Dhabi Sport 1
@@ -351,6 +360,8 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass.shoof.png?raw=true" group-title="SPORT",Al Kass
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof/master.m3u8
+
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/kurdistantv.jpg" group-title="KURDISH",KTV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nrttv.jpg" group-title="KURDISH",NRT
@@ -385,14 +396,10 @@ https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Channel8.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png" group-title="News",Channel 8 Kurdish (720p)
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/aonetv.jo.png?raw=true" group-title="JORDAN",Aonetv
-http://82.212.74.5:8000/live/2011.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sad.ksa.png?raw=true" group-title="KSA",SAD TV
-https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/wattan.ps.png?raw=true" group-title="PALESTINE",Watan
-https://htvmada.mada.ps:4443/wattan/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/salam.ps.png?raw=true" group-title="PALESTINE",Al Salam
-https://htvmada.mada.ps:4443/salamtv/index.m3u8?v=1442954305
+
+
+
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/makan.ps.png?raw=true" group-title="kan",Makan
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/512px-Kan11Logo.svg.png" group-title="kan",kan
@@ -422,6 +429,12 @@ https://channel14-live-consume.immergo.tv/output/master.m3u8
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 ##EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/m24.mo.png?raw=true" group-title="MOROCCO",M24
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
+##EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/aonetv.jo.png?raw=true" group-title="JORDAN",Aonetv
+#http://82.212.74.5:8000/live/2011.m3u8
+##EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sad.ksa.png?raw=true" group-title="KSA",SAD TV
+#https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
+##EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/salam.ps.png?raw=true" group-title="PALESTINE",Al Salam
+#https://htvmada.mada.ps:4443/salamtv/index.m3u8?v=1442954305
 
 
 
