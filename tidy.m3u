@@ -115,8 +115,6 @@ https://ghaasiflu.online/alhqeqa/index.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/saudi.ksa.png?raw=true" group-title="KSA",Saudi 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/thikrayat.sa.png?raw=true" group-title="KSA",Thikriyaat
-https://live.kwikmotion.com/zikrayatlive/zikrayat.smil/playlist_dvr.m3u8?hdnts=exp=1748866319~acl=/zikrayatlive/zikrayat.smil/*~hmac=5a0f7b278b4b3e3eecfbad3f3e9b763028f5e2dc6fbde6b2c0aa8d419290e11d
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkhaleej.ksa.png?raw=true" group-title="KSA",Al Khaleej
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sbc.ksa.png?raw=true" group-title="KSA",SBC
@@ -412,7 +410,7 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/in
 https://channel14-live-consume.immergo.tv/output/master.m3u8
 
 
-
+#out_of_order
 ##EXTINF:-1  tvg-id="" tvg-logo="https://yt3.googleusercontent.com/HohOIPtC52DY_s22PooaP_vhNki_mVHdgF1p8se7GmunJiSLedPwGT6h45zHyHPU9sHvb8_o_g=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT",JORDAN SPORT
 #http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/6724.m3u8
 ##EXTINF:-1 tvg-id="LaayouneTV.ma" tvg-logo="https://i.imgur.com/DWblMvg.png" group-title="General",Al Aoula Laâyoune (480p)
@@ -435,6 +433,8 @@ https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
 #https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 ##EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/salam.ps.png?raw=true" group-title="PALESTINE",Al Salam
 #https://htvmada.mada.ps:4443/salamtv/index.m3u8?v=1442954305
+##EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/thikrayat.sa.png?raw=true" group-title="KSA",Thikriyaat
+#https://live.kwikmotion.com/zikrayatlive/zikrayat.smil/playlist_dvr.m3u8?hdnts=exp=1748866319~acl=/zikrayatlive/zikrayat.smil/*~hmac=5a0f7b278b4b3e3eecfbad3f3e9b763028f5e2dc6fbde6b2c0aa8d419290e11d
 
 
 
