@@ -30,6 +30,8 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/al24news.al.png?raw=true" group-title="NEWS",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/nhartv.al.png?raw=true" group-title="NEWS",Nahar ALgeria
+https://hls-distrib-rlb1.dzsecurity.net/live/EnnaharTV/playlist.m3u8?e=1748988398&token=7fytGqhXOHMxdFznrSOcAg
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="KSA",Al Saudiya Alaan
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/news.kw.png?raw=true" group-title="NEWS",Kuwait News
