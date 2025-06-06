@@ -240,14 +240,36 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklis
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/medi1.mo.png?raw=true" group-title="MOROCCO",Medi 1
 https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/medi1.mo.png?raw=true" group-title="MOROCCO",Medi 1 Maghreb
+https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/telemaroc.png?raw=true" group-title="MOROCCO",Tele Maroc
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/telmar.m3u8
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIzNDMxNTUyMGRlNjE5YTQzZmExMjA0N2NjMTA2ZDFkZSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzQ5MjgyNTA4LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.N3JWlZCdMmq19chWwvOt7vamBlkMCRNvca-AQs1AisCeczVxCBmxZxG52pTTHPJnFqTOHMSN8WNYYXQ9LzrBNvJfTtvwTyrEj6K3bgrGHYpEY9UPzTDNbI90B83R28foH6JFVHuZIXlTD-otLETctcvGNDb4xO5TKlUwp3UaNlDRDya42cq8X5HnsQwij39yvAlxXDrSo9rlYWZHt-ElmEgLu8VFc345OhujDIhbYeRufXag-g0art2CX6ffyeDAM5F57D6UDULL1DK2Pcs3DWiLJFW30ofVal2ZKwUoWMJOqsWVPUdvexmb5jrJtY8U2Tg0fWNW8dvCmWEm6aXPfw/manifest/video.m3u8?CMCD=cid%3D%221749239309653%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22dd239c0e-24a7-43e7-be62-7dbe766c0886%22%2Csu
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shada.mo.png?raw=true" group-title="MUSIC",Shada tv
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" http-referrer="https://2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
 #EXTVLCOPT:http-referrer=https://2m.ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-id="AlAoula.ma@Inter" http-referrer="https://snrt.player.easybroadcast.io/",Al Aoula International (480p)
+#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
+https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="LaayouneTV.ma@SD" http-referrer="https://snrt.player.easybroadcast.io/",Al Aoula Laâyoune (480p)
+#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
+https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AlMaghribia.ma@SD" http-referrer="https://snrt.player.easybroadcast.io/",Al Maghribia (480p)
+#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma@SD" http-referrer="https://snrt.player.easybroadcast.io/",Arryadia (480p)
+#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Assadissa.ma@SD" http-referrer="https://snrt.player.easybroadcast.io/",Assadissa (480p)
+#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
+https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Athaqafia.ma@SD" http-referrer="https://snrt.player.easybroadcast.io/",Athaqafia (480p)
+#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
+https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8
+
+
 
 
 
