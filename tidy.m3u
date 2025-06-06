@@ -352,8 +352,19 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sport.om.png?raw=true" group-title="SPORT",Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playllist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass1.png?raw=true" group-title="SPORT",Al Kass 1
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass1.png?raw=trueg" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=one" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 1 full
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=one
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass1buoi/master.m3u8?hdnts=exp=1749249475~hmac=2690601e802316fa87efe06005745f4af4e14e85c5725b8769f8b25341f92441
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass1.png?raw=trueg" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=one" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 1
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=one
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass1buoi/master.m3u8
+
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass2.png?raw=true" group-title="SPORT",Al Kass 2
 https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass3.png?raw=true" group-title="SPORT",Al Kass 3
