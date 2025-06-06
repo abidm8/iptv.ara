@@ -353,15 +353,15 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sport.om.png?raw=true" group-title="SPORT",Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playllist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass1.png?raw=true" group-title="SPORT",Al Kass 1
-https://tgn.bozztv.com/gin-36bay3/ga-alkass1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDI1IDY6Mzc6NTAgQU0maGFzaF92YWx1ZT1nYXM4ekZ0bEFUY3pDV285bjdMZStRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
+https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass1buoi/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass2.png?raw=true" group-title="SPORT",Al Kass 2
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
+https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass3.png?raw=true" group-title="SPORT",Al Kass 3
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
+https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass4.png?raw=true" group-title="SPORT",Al Kass 4
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
+https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass4azqa/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass.shoof.png?raw=true" group-title="SPORT",Al Kass
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof/master.m3u8
+https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/kurdistantv.jpg" group-title="KURDISH",KTV
