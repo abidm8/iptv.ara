@@ -198,7 +198,7 @@ https://htvint.mada.ps/nabluslive/index.m3u8
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8?v=1354583377
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/wattan.ps.png?raw=true" group-title="PALESTINE",Watan
 https://htvmada.mada.ps:4443/wattan/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/raya1.ps.ps.png?raw=true" group-title="PALESTINE",Raya 1
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/raya1.ps.png?raw=true" group-title="PALESTINE",Raya 1
 https://htvmada.mada.ps:4443/raya/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/raya2.ps.png?raw=true" group-title="PALESTINE",Raya 2
 https://vstream3.hadara.ps:8443/RayaHD_web/web1/playlist.m3u8?v=1307440897
