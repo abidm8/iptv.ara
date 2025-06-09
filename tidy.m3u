@@ -234,6 +234,8 @@ https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shams.iq.png?raw=true" group-title="IRAQ",Shams
 https://stream.shams.tv/hls/stream.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/samirra.iq.png?raw=true" group-title="IRAQ",Samirra
+https://live.bradosti.net/live/AlSamara/index.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://yt3.googleusercontent.com/SVrGq49O72tpiSErWaFKxWecEswQh5mUbrvO9BF1BCt8Qzd8D1MWzLZ009TInsD7KRIyvCsJYtc=s900-c-k-c0x00ffffff-no-rj" group-title="EGYPT",Maspiro
 https://edge66.magictvbox.com/liveApple/Maspiro_Zaman/tracks-v1a1/mono.m3u8
@@ -356,6 +358,26 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sport.om.png?raw=true" group-title="SPORT",Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playllist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass1.png?raw=trueg" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=one" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 1
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=one
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1buoi/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass2.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=two" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 2
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=two
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass3.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=three" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 3
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=three
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass4.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=four" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 4
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=four
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azqa/master.m3u8?hdnts=exp=9999999999~hmac=91054372c66b8d3c45f1b0f8db5dcebffebfb84f3dd6a4371e71b1b82fe93991
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass.shoof.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=shoof" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 4
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=shoof
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8?hdnts=exp=9999999999~hmac=28b665b1b965a4cf5cd5906fb3ecdf258e228aa96c16a047201459e6058b8ea6
 
 
 
@@ -440,26 +462,9 @@ https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
 #https://rojava-tv.akamaized.net/hls/rojava-tv.m3u8
 ##EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/nahartv.al.png?raw=true" group-title="NEWS",Nahar ALgeria
 #https://hls-distrib-rlb1.dzsecurity.net/live/EnnaharTV/playlist.m3u8?e=1748988398&token=7fytGqhXOHMxdFznrSOcAg
-##EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass1.png?raw=trueg" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=one" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 1
-##EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=one
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass1buoi/master.m3u8?hdnts=exp=9999999999~hmac=e898be26e3abe5885fb052da70ed036be7355904af720c0ac26fa9d6ca465a15
-##EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass2.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=two" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 2
-##EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=two
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8?hdnts=exp=9999999999~hmac=df352906cb515cb14e4427a036a906bd4e785d6c776d1d8fbeed5084f7478426
-##EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass3.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=three" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 3
-##EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=three
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8?hdnts=exp=9999999999~hmac=959bf89f388d64c916deb0b082f5f992123d9d0b5530bf2745a45fadd34cf8b9
-##EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass4.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=four" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 4
-##EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=four
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass4azqa/master.m3u8?hdnts=exp=9999999999~hmac=91054372c66b8d3c45f1b0f8db5dcebffebfb84f3dd6a4371e71b1b82fe93991
-##EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass.shoof.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=shoof" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 4
-##EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=shoof
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8?hdnts=exp=9999999999~hmac=28b665b1b965a4cf5cd5906fb3ecdf258e228aa96c16a047201459e6058b8ea6
+
+
+
 
 
 
