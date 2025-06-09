@@ -188,20 +188,31 @@ https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mosawat.ps.png?raw=true" group-title="PALESTINE",Musawah
 https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/awda.ps.png?raw=true" group-title="PALESTINE",Awdah
-http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/hala.ps.png?raw=true" group-title="PALESTINE",Hala tv
 https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/falastini.ps.png?raw=true" group-title="PALESTINE",Falastini
-https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
+https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/nablus.ps.png?raw=true" group-title="PALESTINE",Nablus
 https://htvint.mada.ps/nabluslive/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ajyal.ps.png?raw=true" group-title="PALESTINE",Ajyal
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8?v=1354583377
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/wattan.ps.png?raw=true" group-title="PALESTINE",Watan
 https://htvmada.mada.ps:4443/wattan/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/raya1.ps.ps.png?raw=true" group-title="PALESTINE",Raya 1
+https://htvmada.mada.ps:4443/raya/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/raya2.ps.png?raw=true" group-title="PALESTINE",Raya 2
+https://vstream3.hadara.ps:8443/RayaHD_web/web1/playlist.m3u8?v=1307440897
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/raya3.ps.png?raw=true" group-title="PALESTINE",Raya 3
+https://vstream3.hadara.ps:8443/RayaHD2_web/web/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/wattan.ps.png?raw=true" group-title="PALESTINE",Watan
+https://htvmada.mada.ps:4443/wattan/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/madina.ps.png?raw=true" group-title="PALESTINE",Al Madina
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8?v=1307440897
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/wattar.ps.png?raw=true" group-title="PALESTINE",Watar
 http://htvint.mada.ps:8889/orient/index.m3u8
+
+
+
 
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/oman.om.png?raw=true" group-title="OMAN",Oman tv
@@ -422,7 +433,16 @@ https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Channel8.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png" group-title="News",Channel 8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/bbc1.uk.png?raw=true" group-title="UK",BBC 1
+https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/bbc2.uk.png?raw=true" group-title="UK",BBC 2
+https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/greatm.uk.png?raw=true" group-title="UK",GREAT Movies
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/greatr.uk.png?raw=true" group-title="UK",GREAT Romance
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/makan.ps.png?raw=true" group-title="kan",Makan
@@ -468,6 +488,8 @@ https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
 #https://rojava-tv.akamaized.net/hls/rojava-tv.m3u8
 ##EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/nahartv.al.png?raw=true" group-title="NEWS",Nahar ALgeria
 #https://hls-distrib-rlb1.dzsecurity.net/live/EnnaharTV/playlist.m3u8?e=1748988398&token=7fytGqhXOHMxdFznrSOcAg
+##EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/awda.ps.png?raw=true" group-title="PALESTINE",Awdah
+#http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 
 
 
