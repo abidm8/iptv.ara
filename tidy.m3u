@@ -322,8 +322,9 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/playlist
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist/0.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/hala.lb.png?raw=true" group-title="LEBANON",Hala London
 https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
-https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/program/playlist.m3u8?st=tjj_ajyElBpHrlJvlMCv9Q&e=1749452527&rid=f6f0198bb858419a3c6138e75e3a8957
-https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Aflam/playlist/0.m3u8?rid=a79216c16e3288f7a5243a88c93598d3&bvr_flags=6&bvr_ch=Aflam&bvr_bw=2100000&st=5eGhLaAy1N6fOmYBO7oPNA&e=1749452893
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="LEBANON",MTV
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/vdl.lb.png?raw=true" group-title="LEBANON",VDL
