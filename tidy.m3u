@@ -265,7 +265,7 @@ https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIzNDMxNTUyMGRlNjE5YTQzZmExMjA0N2NjMTA2ZDFkZSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzQ5MjgyNTA4LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.N3JWlZCdMmq19chWwvOt7vamBlkMCRNvca-AQs1AisCeczVxCBmxZxG52pTTHPJnFqTOHMSN8WNYYXQ9LzrBNvJfTtvwTyrEj6K3bgrGHYpEY9UPzTDNbI90B83R28foH6JFVHuZIXlTD-otLETctcvGNDb4xO5TKlUwp3UaNlDRDya42cq8X5HnsQwij39yvAlxXDrSo9rlYWZHt-ElmEgLu8VFc345OhujDIhbYeRufXag-g0art2CX6ffyeDAM5F57D6UDULL1DK2Pcs3DWiLJFW30ofVal2ZKwUoWMJOqsWVPUdvexmb5jrJtY8U2Tg0fWNW8dvCmWEm6aXPfw/manifest/video.m3u8?CMCD=cid%3D%221749239309653%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22dd239c0e-24a7-43e7-be62-7dbe766c0886%22%2Csu
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shada.mo.png?raw=true" group-title="MUSIC",Shada tv
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" http-referrer="https://2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="MOROCCO" http-referrer="https://2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
 #EXTVLCOPT:http-referrer=https://2m.ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
@@ -334,8 +334,8 @@ http://5.9.119.146:8883/nbn/index.m3u8
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg"  group-title="LEBANON",LBC INT
 https://samaflix.com:12103/channel2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg"  group-title="LEBANON",OTV LBN
-http://185.9.2.18/chid_312/index.m3u8
+#EXTINF:-1 tvg-logo="logo="https://github.com/abidm8/iptv.ara/blob/main/img/alaantv.lb.png?raw=true"  group-title="LEBANON",AL AAN TV
+https://stream.castr.com/68493e68e3fe9e080afdaee1/live_96e6c33046a111f0ba225939146dfcde/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hM98B0V/jadeed.png"  group-title="LEBANON",AL JADEED
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg"  group-title="LEBANON",OTV LBN
@@ -471,6 +471,7 @@ https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/hd
 https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/Iq2Kb69.png" group-title="kan",14
 https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
 
 
 #out_of_order
