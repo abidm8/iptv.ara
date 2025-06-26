@@ -233,7 +233,9 @@ https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/dijlah.iq.png?raw=true" group-title="IRAQ",Dijlah TV
 https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/arrabia.iq.png?raw=true" group-title="IRAQ",Al Rabiaa TV
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/arrabia.iq.png?raw=true" group-title="IRAQ" http-referrer="https://alrabiaa.tv/live/alrabiaa_live" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Rabiaa TV
+#EXTVLCOPT:http-referrer=https://alrabiaa.tv/live/alrabiaa_live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sharqiya.news.iq.png?raw=true" group-title="IRAQ",Sharqiya NEWS
