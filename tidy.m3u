@@ -414,7 +414,7 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6cPg4sDK/tvpolonia.png" group-title=png" group-title="POLISH",TVP POLONIA
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvppolonia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png" group-title="POLISH",TVP 1
-http://cdndai.pl/tvp1hd/index.m3u8
+https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png" group-title=png" group-title="POLISH",TVP 2
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfF3xb5y/tvpinfopl.png" group-title=png" group-title="POLISH",TVP INFO
