@@ -411,37 +411,46 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 
 
 
-
-#EXTINF:-1  tvg-id="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/kurdistantv.jpg" group-title="KURDISH",KTV
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nrttv.jpg" group-title="KURDISH",NRT
-https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/haribosky/images/b/bd/Channel_8_Logo_PNG.png/revision/latest?cb=20211023173015" group-title="KURDISH",Channel 8
-https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/Jd9DywP.png" group-title="KURDISH",Gali Kurdistan
-https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/37ajg2j.png" group-title="KURDISH",Jin TV
-https://live.jintv.org/medialive/jintv.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/xPwzad9.png" group-title="KURDISH",Kurd TV
-https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="KURDISH",Kurdistan 24
-https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="KURDISH",Kurdsat HD
-https://kurdsat.akamaized.net/hls/stream_0.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="KURDISH",Med Muzik
-https://med-musik.icdndhcp.com/live3/live3.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/XpgWb6B/IMG-20230628-140407.jpg" group-title="KURDISH",NUBAR Plus TV
-http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="KURDISH",Rudaw TV
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/rK0y02d.png" group-title="KURDISH",Waar TV
-https://ca-rt.onetv.app/Waar/index-0.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/88/22/21/360_F_388222175_D6PTsMoUyegpPJ63zvkecPsZAttc95mD.jpg" group-title="KURDISH",Zoom TV Kurdish
-https://live.zoomnews.info/live/Zoom_playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="KURDISH",Zarok TV
-https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="KURDISH",Zarok TV Sorani
-https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Channel8.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png" group-title="News",Channel 8
-https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cPg4sDK/tvpolonia.png" group-title=png" group-title="POLISH",,TVP POLONIA
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvppolonia.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cPg4sDK/tvpolonia.png" group-title=png" group-title="POLISH",,TVP POLONIA
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpol.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cPg4sDK/tvpolonia.png" group-title=png" group-title="POLISH",,TVP POLONIA
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/10094/hls/pl.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfF3xb5y/tvpinfopl.png" group-title=png" group-title="POLISH",,TVP INFO
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/tvpinfo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfF3xb5y/tvpinfopl.png" group-title=png" group-title="POLISH",,TVP INFO
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpinfo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfF3xb5y/tvpinfopl.png" group-title=png" group-title="POLISH",,TVP INFO
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpin.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wL8Hxgs/tvpkultu.png" group-title=png" group-title="POLISH",,TVP KULTURA
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpkultura.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xtTSh70W/tvpkultu2.png" group-title=png" group-title="POLISH",,TVP KULTURA 2
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpkultura2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdZttgv0/tvphist.png" group-title=png" group-title="POLISH",,TVP HISTORIA
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvDGM62d/tvhist2.png" group-title=png" group-title="POLISH",,TVP HISTORIA 2
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png" user-agent="VLC/3.0.20 LibVLC/3.0.20",TVP 1
+http://cdndai.pl/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png" group-title=png" group-title="POLISH",,TVP 1
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png" group-title=png" group-title="POLISH",,TVP 1
+https://live002.cda.pl/enc115/tvp1hdraw/tvp1hdraw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png" group-title=png" group-title="POLISH",,TVP 1
+https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png" group-title=png" group-title="POLISH",,TVP 2
+https://live002.cda.pl/enc115/tvp2hdraw/tvp2hdraw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png" group-title=png" group-title="POLISH",,TVP 2
+https://liveovh009.cda.pl/enc129/tvp2hdraw/tvp2hdraw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png" user-agent="VLC/3.0.20 LibVLC/3.0.20",TVP 2
+http://cdndai.pl/tvp2hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png" group-title=png" group-title="POLISH",,TVP 2
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CpvvBMmp/tvp3.png" group-title=png" group-title="POLISH",,TVP3 WARSZAWA
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp3warszawa.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx2RQ5V/polsatnews1.png" group-title=png" group-title="POLISH",,POLSAT NEWS
+http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title=png" group-title="POLISH",,EURONEWS PL
+https://euronews-live-pol-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/e/26235/euronews-pl.m3u8
 
