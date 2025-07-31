@@ -463,7 +463,7 @@ https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/kan11.png?raw=true" group-title="kan",kan
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ch12.png?raw=true" group-title="kan",12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12makowad/index.m3u8?b-in-range=0-1800&hdnea=st%3D1753355530%7Eexp%3D1753356430%7Eacl%3D%2F*%7Ehmac%3D31204e8beea6fce795c762fcfc876349d7bc7ea94074df1b3901f8033e51a4c5
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ch13.png?raw=true" group-title="kan",13
 https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ch14.png?raw=true" group-title="kan",14
