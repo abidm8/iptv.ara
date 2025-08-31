@@ -470,8 +470,8 @@ https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/in
 https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ch24.png?raw=true" group-title="kan",24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://i.ytimg.com/vi/GKSiWwuM1Ss/sddefault.jpg" group-title="kan",METV
-https://content.uplynk.com/channel/0b1f73a578fe48b78f2b788c76f2ed10.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/guideustv.png?raw=true" group-title="ksa",Guide us TV
+https://live.streamislam.com/hls/streamlive/index.m3u8
 
 
 
