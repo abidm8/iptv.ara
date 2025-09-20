@@ -247,6 +247,11 @@ https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
 https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/samirra.iq.png?raw=true" group-title="IRAQ",Samirra
 https://live.bradosti.net/live/AlSamara/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mosil.iq.png?raw=true" group-title="IRAQ" http-referrer="https://www.elahmad.com/tv/mobiletv/glarb.php?id=almawsleya" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Mawsiliya
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/tv/mobiletv/glarb.php?id=almawsleya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://eus21.playlist.ttvnw.net/v1/playlist/CtkGouAWteEHQUGsxBXR5o6fd08o0m1nKLYtrpZ21xSvEnhkQOjBoNRDCm8QjHSxsYCC4ukt_f7wI7kBNNIssrzKCaa8Cm2uBfb56ELlC6vKeN_VwU-aN6uBrwxyh0KZpZ0eDEVrFq4lcCOOgxklOp12AkR9sm8A7ULAVGci4vB7YtIb3wZXMeyw81yTS6G4ZHOBJ_kM4TjNCDETKC7LI9WYFqp3tnKRrNWB6JtX-cn1RBmOgnmQ-pEZJI4HJ5RR8S4YA6xd8DNgxeW2pgB5AVMyynroe7EeapfMbNXW8O02b_uzB8tUZVyf4pnpuIEZTUkG82PSeDr0QL4jzZxwJCbc6WFP5-L5wicLhWi4i2DWiLTo6l3a3iIWd6d-I4BFYiFwOwh0Zfi9bFbDDbelsd1fiHIQ13e8QYUjkrnGfjY_0ledKqb7a5hoNLJQQO4sr5Rr9v7SsWf0rfUdudxYoxI3fpZ-gIV18y4M11AR2KnMMl9lpQTAwCXFQXtPEGa6aIPrqs6k9WHH9aWTtXGPhxLfo8V_SFUDRsd7nU32ryTJ6TxWAT2q4Ufm2PxVi4oi1VdnwOLKYiq620UkdINElaRJ6kyqMvC07bh4N32cpDAmGTrUUknUrnB3Vy6bL_DCqfmZu-48rBs5LUzAA7jZP6xxzkzHsjGsbwWuTzRlcPHsa_5MDCYesZeqc_XjFEMBiI0ZL6gOvx7xrFLovmdI4mBEgBOz6N1mdptVus4xyNMBMTov5sIfyqfBtecK_OrkajrYl9hhlA822YguAlI0J9Y9HssB5G4qITMM2a-pfwOgYDomkMF834YmdSaQqzv_Yq2wO-wJ5KRqtOuGAPCZnYN32aZYoLdoow3MzqXud__U1nWlCL8XJmZYxtw_s33rgc8FCkX1QrO2EyPUrX_KavaYOLOHJM50HaTAm8iT2N4u1fgFLDD9OEMRtGz98B9-TNkBcqIoJH_ssDAbuVRwlafO4kzsNk5p97RQgeP_PL2lpRlHaOMbpsfjzsw3X01h37E1SBJJceK2z2pwQRall32wn4PAVJvFBf-i6D_9d70TxXTMx6oQYtNWJNT6Yl3UiQHbqbXC2v2hhMIMIlx3Wdvgjm_Qy3PPKtTieWPl7h_2yiiuvbPL4bXsVO4aDHhBveAox0n_UG9QCyABKglldS13ZXN0LTIwpA0.m3u8
+
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://yt3.googleusercontent.com/SVrGq49O72tpiSErWaFKxWecEswQh5mUbrvO9BF1BCt8Qzd8D1MWzLZ009TInsD7KRIyvCsJYtc=s900-c-k-c0x00ffffff-no-rj" group-title="EGYPT",Maspiro
 https://edge66.magictvbox.com/liveApple/Maspiro_Zaman/tracks-v1a1/mono.m3u8
