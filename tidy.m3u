@@ -294,11 +294,9 @@ https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m
 
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rotana.cinema.png?raw=true" group-title="MOVIES",Rotana Cinema
-https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rotana.classic.png?raw=true" group-title="MOVIES",Rotana Classic
-https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8?=&=&=&=&=1845&=874&=&=&=&=2c3baa14-177e-efe7-8659-8b37b1794592&=idfa
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rotana.classic.png?raw=true" group-title="MOVIES",Rotana Comedy
-https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8?=&=&=&=&=1845&=874&=&=&=&=2c3baa14-177e-efe7-8659-8b37b1794592&=idfa
+https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/profile_0/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shahid.ar.png?raw=true" group-title="MOVIES",Shahid AFLAM
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shahid.action.png?raw=true" group-title="MOVIES",Shahid Action
