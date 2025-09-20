@@ -300,9 +300,9 @@ https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rotana.cinema.png?raw=true" group-title="MOVIES",Rotana Cinema
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rotana.classic.png?raw=true" group-title="MOVIES",Rotana Classic
-https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8?=&=&=&=&=1845&=874&=&=&=&=2c3baa14-177e-efe7-8659-8b37b1794592&=idfa
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rotana.classic.png?raw=true" group-title="MOVIES",Rotana Comedy
-https://oppomu.serv00.net/comedy.php?channel=rcomedy&.m3u8
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8?=&=&=&=&=1845&=874&=&=&=&=2c3baa14-177e-efe7-8659-8b37b1794592&=idfa
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shahid.ar.png?raw=true" group-title="MOVIES",Shahid AFLAM
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shahid.action.png?raw=true" group-title="MOVIES",Shahid Action
@@ -833,9 +833,8 @@ https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
 ##EXTVLCOPT:http-referrer=https://www.alaan.tv
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #https://stream.castr.com/68493e68e3fe9e080afdaee1/live_96e6c33046a111f0ba225939146dfcde/index.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/arrabia.iq.png?raw=true" group-title="IRAQ" referer="https://player.castr.com/",Al Rabiaa TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+##EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/arrabia.iq.png?raw=true" group-title="IRAQ" referer="https://player.castr.com/",Al Rabiaa TV
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
 
 #LG
