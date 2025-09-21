@@ -1,8 +1,7 @@
 
 #EXTM3U
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alquran.ksa.png?raw=true" group-title="KSA",Al Quran Makkah
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/playlist_dvr.m3u8?hdnts=exp=1748040295~acl=/ksaquranlive/ksaquran.smil/*~hmac=e6c7f48bc5ea0d971d5f371613210eca626ad68ea99e46b56d02eb801ebedc73
+https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/quran.ae.png?raw=true" group-title="UAE",Al Quran Shrja
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="KSA",Iqraa Quran
@@ -12,9 +11,14 @@ https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alquran.bh.png?raw=true" group-title="BAHRAIN",Bahrain Quran
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sunnah.ksa.png?raw=true" group-title="KSA",AsSunnah
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/laEk64E.png" group-title="KSA",Nidae AlIslam Radio
+https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/guideustv.png?raw=true" group-title="KSA",Guide us TV
+https://live.streamislam.com/hls/streamlive/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/zadtv.png?raw=true" group-title="KSA",Zad TV
+https://593149.gvideo.io/cmaf/593149_2183883/index.mpd
+
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeera.qa.png?raw=true" group-title="NEWS",Al Jazeera
 https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="NEWS",Al Jazeera Mubasher
@@ -297,9 +301,9 @@ https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/in
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shahid.maraya.png?raw=true" group-title="MBC",Maraya
 https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shahid.tash.png?raw=true" group-title="MBC",Taash
-https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
+https://shls-live-enc.edgenextcdn.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shahid.masrah.png?raw=true" group-title="MBC",Masrah Masr
-https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
+https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
 
 
 
