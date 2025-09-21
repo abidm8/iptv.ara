@@ -412,6 +412,10 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/playlist
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist/0.m3u8
 
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/roya.maraya.png?raw=true" group-title="JORDAN",Sport test
+https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=jordan_sport1&t=11111111
+
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/hala.lb.png?raw=true" group-title="LEBANON",Hala London
 https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="LEBANON",MTV
