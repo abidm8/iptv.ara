@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alquran.ksa.png?raw=true" group-title="KSA",Al Quran Makkah
-https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
+https://tgn.bozztv.com/trn03/gin-saudiquran/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDI1IDM6NDI6NDcgQU0maGFzaF92YWx1ZT1IMmU0WGM5ZURlQmNuMTlLUXVXQ0dRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjA=
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/quran.ae.png?raw=true" group-title="UAE",Al Quran Shrja
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="KSA",Iqraa Quran
@@ -11,7 +11,7 @@ https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alquran.bh.png?raw=true" group-title="BAHRAIN",Bahrain Quran
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sunnah.ksa.png?raw=true" group-title="KSA",AsSunnah
-https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
+https://tgn.bozztv.com/trn03/gin-saudisunnah/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDI1IDM6NDc6MzYgQU0maGFzaF92YWx1ZT1aRk4vTWpkQk4xNk1vakVSZmUySEVRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/guideustv.png?raw=true" group-title="KSA",Guide us TV
 https://live.streamislam.com/hls/streamlive/index.m3u8
