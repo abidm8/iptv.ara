@@ -321,6 +321,156 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shahid.thriller.png?raw=true" group-title="MOVIES",Shahid THRILLER
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/greatm.uk.png?raw=true" group-title="ENGLISH",GREAT Movies
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/greatr.uk.png?raw=true" group-title="ENGLISH",GREAT Romance
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="HomesUnderHammer.us@UK" group-title="ENGLISH",Homes Under Hammer 
+https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Hotel Inspector 
+https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",I Survived 
+https://8e979536.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0lTdXJ2aXZlZF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="InsideCrime.us@UK" group-title="ENGLISH",Inside Crime 
+https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MysteryTV.us@UK" group-title="ENGLISH",Mystery TV 
+https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",MyTime Movie Network 
+https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Popflix 
+https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" group-title="ENGLISH",Rakuten Top Movies UK 
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" group-title="ENGLISH",Rakuten TV Action Movies UK 
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK" group-title="ENGLISH",Rakuten TV Comedy Movies UK 
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@UK" group-title="ENGLISH",Rakuten TV Drama Movies UK 
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" group-title="ENGLISH",Rakuten TV Family Movies UK 
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Rakuten TV Reality UK 
+https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Rakuten TV Romance Movies UK 
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Rakuten TV Sci-Fi UK 
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Rakuten TV Thrillers UK 
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Real Crime Beta 
+https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Stormcast Westerns 
+https://stormcast-cinema-llc-westernmaniafast-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us@UK" group-title="ENGLISH",Tastemade 
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Tennis+ 
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",The Chat Show Channel 
+https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in@SD" group-title="ENGLISH",Travel XP 
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",True Lives 
+https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Wicked Tuna 
+https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",World War TV 
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Alter Horror 
+https://aegis-cloudfront-1.tubi.video/acac036c-181a-413a-a102-cd294c83320d/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us" group-title="ENGLISH",Americas Test Kitchen 
+https://livetv-fa.tubi.video/americas-test-kitchen2/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" group-title="ENGLISH",BBC Earth 
+https://livetv-fa.tubi.video/bbc-earth2/playlist.m3u8
+#EXTINF:-1 tvg-id="BritBoxMysteries.us" group-title="ENGLISH",BritBox Mysteries 
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:-1 tvg-id="CaughtinProvidence.us" group-title="ENGLISH",Caught in Providence 
+https://livetv-fa.tubi.video/caught-in-providence2/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinevault80s.us" group-title="ENGLISH",Cinevault 80s 
+https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Cinevault Classics 
+https://aegis-cloudfront-1.tubi.video/9ab6d1a7-9ab7-4281-8fde-e067ca002830/playlist.m3u8
+#EXTINF:-1 tvg-id="CinevaultWesterns.us" group-title="ENGLISH",Cinevault Westerns 
+https://aegis-cloudfront-1.tubi.video/72b8dd6b-391b-401c-a3e4-03f9c29555c8/playlist.m3u8
+#EXTINF:-1 tvg-id="ColdCaseFiles.us" group-title="ENGLISH",Cold Case Files 
+https://livetv-fa.tubi.video/cold-case-files/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyDynamics.us" group-title="ENGLISH",Comedy Dynamics 
+https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Crime ThrillHer 
+https://livetv-fa.tubi.video/crime-thrillher/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH",Crime Time Canada 
+https://livetv-fa.tubi.video/crimetime-canada/playlist.m3u8
+#EXTINF:-1 tvg-id="Dateline247.us" group-title="ENGLISH"" group-title="ENGLISH",Dateline 24/7 
+https://livetv-fa.tubi.video/dateline/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",Dazn Ringside 
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+#EXTINF:-1 tvg-id="FBIFiles.us@US" group-title="ENGLISH"" group-title="ENGLISH",FBI Files 
+https://livetv-fa.tubi.video/the-fbi-files/index.m3u8
+#EXTINF:-1 tvg-id="FearFactor.us"" group-title="ENGLISH",Fear Factor 
+https://livetv-fa.tubi.video/fear-factor/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseForensicFiles.us"" group-title="ENGLISH",Filmrise Forensic Files 
+https://livetv-fa.tubi.video/forensic-files/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",Filmrise Horror 
+https://livetv-fa.tubi.video/filmrise-horror/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",FilmRise Horror Canada 
+https://livetv-fa.tubi.video/filmrise-horror-canada/index.m3u8
+#EXTINF:-1 tvg-id="TheRifleman.us"" group-title="ENGLISH",Filmrise The Rifleman 
+https://livetv-fa.tubi.video/rifleman-filmrise/index.m3u8
+#EXTINF:-1 tvg-id="FilmRiseTrueCrime.us"" group-title="ENGLISH",Filmrise True Crime 
+https://livetv-fa.tubi.video/filmrise-true-crime/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",FilmRise True Crime Canada 
+https://livetv-fa.tubi.video/filmrise-true-crime-canada/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",Filmrise World's Most Evil Killers 
+https://livetv-fa.tubi.video/worlds-most-evil-killers/index.m3u8
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us"" group-title="ENGLISH",Fubo Sports Network  
+https://livetv-fa.tubi.video/fubo/master.m3u8
+#EXTINF:-1 tvg-id="GritXtra.us"" group-title="ENGLISH",Grit Xtra 
+https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
+#EXTINF:-1 tvg-id="IONTV.us@East"" group-title="ENGLISH",ION 
+https://livetv-fa.tubi.video/ion/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",ION Mystery 
+https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
+#EXTINF:-1 tvg-id="IONPlus.us@East"" group-title="ENGLISH",ION Plus 
+https://livetv-fa.tubi.video/ion-plus/playlist.m3u8
+#EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us"" group-title="ENGLISH",LOL Network 
+https://livetv-fa.tubi.video/lol-network3/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca"" group-title="ENGLISH",Love Nature 
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us"" group-title="ENGLISH",Maverick Black Cinema 
+https://livetv-fa.tubi.video/maverick-black-cinema/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us"" group-title="ENGLISH",MovieSphere 
+https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",MovieSphere Canada 
+https://livetv-fa.tubi.video/moviesphere-canada2/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",Top Rank Classics 
+https://livetv-fa.tubi.video/top-rank/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",Total Crime 
+https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",Tubi Originals  
+https://livetv-fa.tubi.video/tubi-originals/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",TV One Crime & Justice 
+https://livetv-fa.tubi.video/tv-one/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",UFC 
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 tvg-id="UnsolvedMysteries.us"" group-title="ENGLISH",Unsolved Mysteries 
+https://livetv-fa.tubi.video/unsolved-mysteries/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",WBTV Chasing Criminals 
+https://livetv-fa.tubi.video/wbd-chasing-criminals/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",WBTV Classic Cinema 
+https://livetv-fa.tubi.video/wbd-classic-cinema/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",WBTV Crime scenes 
+https://livetv-fa.tubi.video/wbd-crime-scenes/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",WBTV Family Faves 
+https://livetv-fa.tubi.video/wbd-all-together-now/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",WBTV Family Unscripted 
+https://livetv-fa.tubi.video/wbd-family-rules/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",WBTV Generation Drama 
+https://livetv-fa.tubi.video/wbd-generation-drama/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",WBTV Ghosts are Real 
+https://livetv-fa.tubi.video/wbd-supernatural/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENGLISH"" group-title="ENGLISH",WBTV HBO Boxing  
+https://livetv-fa.tubi.video/wbd-hbo-boxing/playlist.m3u8
+
+
 
 #EXTINF:-1  tvg-id="24HourFreeMovies.us" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="MOVIES" :http-referrer="" :http-user-agent="",24 Hour Free Movies 
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
