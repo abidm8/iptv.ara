@@ -12,8 +12,6 @@ https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sunnah.ksa.png?raw=true" group-title="KSA",AsSunnah
 https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=sunna_tv&t=11111111
-
-
 #EXTINF:0 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/guideustv.png?raw=true" group-title="KSA",Guide us TV
 https://live.streamislam.com/hls/streamlive/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/zadtv.png?raw=true" group-title="KSA",Zad TV
@@ -36,8 +34,7 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/al24news.al.png?raw=true" group-title="NEWS",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/abidm8/iptv.ara/refs/heads/main/img/thikrayat.sa.png" group-title="KSA",Thikrayat tv
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+
 https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_thikrayat&t=11111111
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="KSA",Al Saudiya Alaan
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
@@ -122,12 +119,12 @@ https://samson.streamerr.co:8081/radionoon/index.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/saudi.ksa.png?raw=true" group-title="KSA",Saudi 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/abidm8/iptv.ara/refs/heads/main/img/thikrayat.sa.png" group-title="KSA",Thikrayat tv
+https://www.elAhmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_thikrayat&t=11111111
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkhaleej.ksa.png?raw=true" group-title="KSA",Al Khaleej
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sbc.ksa.png?raw=true" group-title="KSA",SBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/bedaya.ksa.png?raw=true" group-title="KSA",Bedaya
-https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/iqraa.ksa.png?raw=true" group-title="KSA",Iqra
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8?v=1354583377
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/makkah.ksa.png?raw=true" group-title="KSA",Makkah tv
@@ -1090,6 +1087,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eec
 #https://stream.castr.com/68493e68e3fe9e080afdaee1/live_96e6c33046a111f0ba225939146dfcde/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/arrabia.iq.png?raw=true" group-title="test" referer="https://player.castr.com/",test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+#https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+##EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/bedaya.ksa.png?raw=true" group-title="KSA",Bedaya
+#https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/index.m3u8
 
 
