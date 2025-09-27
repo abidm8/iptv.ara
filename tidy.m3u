@@ -12,8 +12,7 @@ https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alquran.bh.png?raw=true" group-title="BAHRAIN",Bahrain Quran
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sunnah.ksa.png?raw=true" group-title="KSA",AsSunnah
-https://tgn.bozztv.com/trn03/gin-saudisunnah/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDI1IDM6NDc6MzYgQU0maGFzaF92YWx1ZT1aRk4vTWpkQk4xNk1vakVSZmUySEVRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
-https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/guideustv.png?raw=true" group-title="KSA",Guide us TV
 https://live.streamislam.com/hls/streamlive/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/zadtv.png?raw=true" group-title="KSA",Zad TV
