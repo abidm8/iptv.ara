@@ -385,10 +385,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
 #EXTINF:-1 tvg-id="" group-title="MOVIES",Pluto 00s Replay
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
-
-
-
-
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" " group-title="MOVIES",Rakuten Top Movies UK 
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" " group-title="MOVIES",Rakuten Action Movies UK 
@@ -599,10 +595,6 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 
 
 
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/greatm.uk.png?raw=true" group-title="ENGLISH",GREAT Movies
-https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/greatr.uk.png?raw=true" group-title="ENGLISH",GREAT Romance
-https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="HomesUnderHammer.us@UK" group-title="ENGLISH",Homes Under Hammer 
 https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENGLISH",Hotel Inspector 
@@ -613,32 +605,8 @@ https://8e979536.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MysteryTV.us@UK" group-title="ENGLISH",Mystery TV 
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENGLISH",MyTime Movie Network 
-https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENGLISH",Popflix 
-https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" group-title="ENGLISH",Rakuten Top Movies UK 
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" group-title="ENGLISH",Rakuten TV Action Movies UK 
-https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK" group-title="ENGLISH",Rakuten TV Comedy Movies UK 
-https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@UK" group-title="ENGLISH",Rakuten TV Drama Movies UK 
-https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" group-title="ENGLISH",Rakuten TV Family Movies UK 
-https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENGLISH",Rakuten TV Reality UK 
-https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENGLISH",Rakuten TV Romance Movies UK 
-https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENGLISH",Rakuten TV Sci-Fi UK 
-https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENGLISH",Rakuten TV Thrillers UK 
-https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENGLISH",Real Crime Beta 
 https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENGLISH",Stormcast Westerns 
-https://stormcast-cinema-llc-westernmaniafast-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us@UK" group-title="ENGLISH",Tastemade 
 https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENGLISH",Tennis+ 
@@ -663,12 +631,6 @@ https://livetv-fa.tubi.video/bbc-earth2/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
 #EXTINF:-1 tvg-id="CaughtinProvidence.us" group-title="ENGLISH",Caught in Providence 
 https://livetv-fa.tubi.video/caught-in-providence2/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinevault80s.us" group-title="ENGLISH",Cinevault 80s 
-https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENGLISH",Cinevault Classics 
-https://aegis-cloudfront-1.tubi.video/9ab6d1a7-9ab7-4281-8fde-e067ca002830/playlist.m3u8
-#EXTINF:-1 tvg-id="CinevaultWesterns.us" group-title="ENGLISH",Cinevault Westerns 
-https://aegis-cloudfront-1.tubi.video/72b8dd6b-391b-401c-a3e4-03f9c29555c8/playlist.m3u8
 #EXTINF:-1 tvg-id="ColdCaseFiles.us" group-title="ENGLISH",Cold Case Files 
 https://livetv-fa.tubi.video/cold-case-files/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamics.us" group-title="ENGLISH",Comedy Dynamics 
@@ -687,12 +649,6 @@ https://livetv-fa.tubi.video/the-fbi-files/index.m3u8
 https://livetv-fa.tubi.video/fear-factor/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseForensicFiles.us"" group-title="ENGLISH",Filmrise Forensic Files 
 https://livetv-fa.tubi.video/forensic-files/index.m3u8
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",Filmrise Horror 
-https://livetv-fa.tubi.video/filmrise-horror/index.m3u8
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",FilmRise Horror Canada 
-https://livetv-fa.tubi.video/filmrise-horror-canada/index.m3u8
-#EXTINF:-1 tvg-id="TheRifleman.us"" group-title="ENGLISH",Filmrise The Rifleman 
-https://livetv-fa.tubi.video/rifleman-filmrise/index.m3u8
 #EXTINF:-1 tvg-id="FilmRiseTrueCrime.us"" group-title="ENGLISH",Filmrise True Crime 
 https://livetv-fa.tubi.video/filmrise-true-crime/index.m3u8
 #EXTINF:-1 tvg-id=""  group-title="ENGLISH",FilmRise True Crime Canada 
@@ -713,14 +669,6 @@ https://livetv-fa.tubi.video/ion-plus/playlist.m3u8
 https://livetv-fa.tubi.video/lol-network3/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca"" group-title="ENGLISH",Love Nature 
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 tvg-id="MaverickBlackCinema.us"" group-title="ENGLISH",Maverick Black Cinema 
-https://livetv-fa.tubi.video/maverick-black-cinema/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us"" group-title="ENGLISH",MovieSphere 
-https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",MovieSphere Canada 
-https://livetv-fa.tubi.video/moviesphere-canada2/playlist.m3u8
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",Top Rank Classics 
-https://livetv-fa.tubi.video/top-rank/playlist.m3u8
 #EXTINF:-1 tvg-id=""  group-title="ENGLISH",Total Crime 
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 tvg-id=""  group-title="ENGLISH",Tubi Originals  
@@ -747,28 +695,6 @@ https://livetv-fa.tubi.video/wbd-generation-drama/playlist.m3u8
 https://livetv-fa.tubi.video/wbd-supernatural/playlist.m3u8
 #EXTINF:-1 tvg-id=""  group-title="ENGLISH",WBTV HBO Boxing  
 https://livetv-fa.tubi.video/wbd-hbo-boxing/playlist.m3u8
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH", FilmRise Action
-https://d3is52sgpnlx4c.cloudfront.net/10901/88885508/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885508&ads.csid=viziowatchfree_us_filmriseaction_ssai&ads.caid=FilmRiseAction&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=FilmRiseAction&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.channelId=88885508&ads.xumo_channelName=FilmRiseAction&ads._fw_content_programmer_brand=FilmRiseAction&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6MjkyMDk1NjY1NX0
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",FilmRise Free Movies
-https://d3is52sgpnlx4c.cloudfront.net/10901/88885512/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885512&ads.csid=viziowatchfree_us_filmrisefreemovies_ssai&ads.caid=FilmRiseFreeMovies&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=FilmRiseFreeMovies&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.channelId=88885512&ads.xumo_channelName=FilmRiseFreeMovies&ads._fw_content_programmer_brand=FilmRiseFreeMovies&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6MjkyMDk1NjY0MX0
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",Hallmark Movies & More
-https://d3is52sgpnlx4c.cloudfront.net/10901/88885520/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885520&ads.csid=viziowatchfree_us_crownmediahallmarkmoviesnew_ssai&ads.caid=CrownMediaHallmarkMoviesNew&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=2777&ads.xumo_contentName=CrownMediaHallmarkMoviesNew&ads.xumo_providerId=2777&ads.xumo_providerName=CrownMediaHallmarkMoviesNew&ads.channelId=88885520&ads.xumo_channelName=HallmarkMovies&ads.xumo_imdb_genre=Action&ads._fw_content_programmer_brand=CrownMediaHallmarkMoviesNew&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.amznappId=14911df5fe9f4df5a4ebfa1eb51d83eb&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6MzIwNTQ0NDcxNn0
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",Movie Favorites by Lifetime
-https://5ee29b66.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSG9saWRheU1vdmllRmF2b3JpdGVzYnlMaWZldGltZV9ITFM/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesbyLifetime&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzQ1NjY3OTAzMn0
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",FilmRise Sci-Fi
-https://d3is52sgpnlx4c.cloudfront.net/10901/88885513/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885513&ads.csid=viziowatchfree_us_filmrisescifi_ssai&ads.caid=FilmRiseSciFi&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=FilmRiseSciFi&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.channelId=88885513&ads.xumo_channelName=FilmRiseSciFi&ads._fw_content_programmer_brand=FilmRiseSciFi&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6MjkyMDk1NjY0M30
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",Xumo Free Sci-Fi & Fantasy Movies
-https://d3is52sgpnlx4c.cloudfront.net/10901/88885570/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885570&ads.csid=viziowatchfree_us_xumofreescifiandfantasymovies_ssai&ads.caid=XumoFreeSciFiAndFantasy&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=149&ads.xumo_contentName=XumoFreeSciFiAndFantasy&ads.xumo_providerId=149&ads.xumo_providerName=XumoFreeScifiAndFantasy&ads.channelId=88885570&ads.xumo_channelName=XumoFreeSciFiAndFantasy&ads._fw_content_programmer_brand=XumoFreeSciFiAndFantasy&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6NDE4MjU1NDgzOX0
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",Xumo Free Family Movies
-https://d3is52sgpnlx4c.cloudfront.net/10901/88885569/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885569&ads.csid=viziowatchfree_us_xumofreefamilymovies_ssai&ads.caid=XumoFreeFamilyMovies&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=149&ads.xumo_contentName=XumoFreeFamilyMovies&ads.xumo_providerId=149&ads.xumo_providerName=XumoFreeFamilyMovies&ads.channelId=88885569&ads.xumo_channelName=XumoFreeFamilyMovies&ads._fw_content_programmer_brand=XumoFreeFamilyMovies&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6NDE4MjU1NDgzOH0
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",FilmRise Horror
-https://d3is52sgpnlx4c.cloudfront.net/10901/88885514/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885514&ads.csid=viziowatchfree_us_filmrisehorror_ssai&ads.caid=FilmRiseHorror&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=FilmRiseHorror&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.channelId=88885514&ads.xumo_channelName=FilmRiseHorror&ads._fw_content_programmer_brand=FilmRiseHorror&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6Mjk4NDk5NzEzOH0
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",AMC Thrillers
-https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzA3NDI3NTc0OH0
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",Screambox TV
-https://wurlcineverse.global.transmit.live/hls/678864b20b2848c81efe74be/v1/cinedigm_entertainment_corp_screamboxtv_1/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=1845&wurl_name=ScreamboxTV&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDQyNjk2MDA1MX0
-#EXTINF:-1 tvg-id=""  group-title="ENGLISH",Dark Matter TV
-https://wurltricoast.global.transmit.live/hls/67f032bce3ed1615e41629bf/playlist.m3u8?wurl_channel=1570&wurl_name=DarkMatterTV&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDExNjk1MDk2OH0
 #EXTINF:-1 tvg-id=""  group-title="ENGLISH",JAIL
 https://4d382096a253412bbea5672515de1ec7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_Jail/playlist.m3u8?ads.wurl_channel=1201&ads.wurl_name=Jail&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzk0MjIwMTI3MH0
 #EXTINF:-1 tvg-id=""  group-title="ENGLISH",Forensic Files
@@ -797,8 +723,6 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885510/hls/master.m3u8?withResolut
 https://6b9d2a66.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWVUaHJpbGxIZXJfSExT/playlist.m3u8?ads.wurl_channel=1056&ads.wurl_name=CrimeThrillHer&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzgyMzk4MjY1Mn0
 #EXTINF:-1 tvg-id=""  group-title="ENGLISH",REELZ Famous & Infamous
 https://linear-190.frequency.stream/dist/vizio/190/hls/master/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjQzMzM1OTU0MzF9
-
-
 
 
 
