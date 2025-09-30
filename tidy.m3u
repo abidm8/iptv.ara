@@ -662,9 +662,9 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/dubai.s1.png?raw=true" group-title="SPORT",Dubai Sport 1
 https://dmidspta.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u?m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/dubai.s2.png?raw=true" group-title="SPORT",Dubai Sport 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u?m3u8
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/dubai.s3.png?raw=true" group-title="SPORT",Dubai Sport 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="SPORT",Dubai Racing
 https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="SPORT",Dubai Racing 2
@@ -683,27 +683,23 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sport.om.png?raw=true" group-title="SPORT",Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playllist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass1.png?raw=trueg" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=one" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 1
-#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=one
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass1buoicft/master.m3u8
+https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass1buoicft/master1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass2.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=two" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 2
-#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=two
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
+https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass2hefazqft/master1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass3.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=three" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 3
-#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=three
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass3vakazqft/master1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass4.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=four" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 4
-#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=four
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azqa/master.m3u8
+https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass4azqaft/master720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass.shoof.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=shoof" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass SHOOF
-#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=shoof
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png" group-title="SPORT" ,ksa sport 1
+https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_sport1&t=11111111
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png" group-title="SPORT" ,ksa sport 2
+https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_sport2&t=11111111
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/2d/ee/fullhd_f1d461237592b4d46c44a6f300df1d97051f7c55.png" group-title="SPORT" ,ksa sport 3
+https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_sport3&t=11111111
 
 
 
