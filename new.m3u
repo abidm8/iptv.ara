@@ -1,1 +1,5 @@
-
+#EXTM3U
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeera.qa.png?raw=true" group-title="NEWS",Al Jazeera
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="NEWS",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
