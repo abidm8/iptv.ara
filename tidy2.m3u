@@ -556,6 +556,10 @@ https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sharqa.sport.png?raw=true" group-title="SPORT",Al Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+
+https://live.kwikmotion.com/smc4sports2live/sports2.smil/smc4sports2publish/sports2_source/chunks.m3u8
+
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sport1.bh.png?raw=true" group-title="SPORT",Bahrain Sport 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sport2.bh.png?raw=true" group-title="SPORT",Bahrain Sport 2
