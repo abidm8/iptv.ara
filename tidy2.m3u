@@ -24,6 +24,8 @@ https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/abidm8/iptv.ara/refs/heads/main/img/alaraby.qa.png" group-title="NEWS",Al Arabi
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alghad.png?raw=true" group-title="NEWS",Al Ghad
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 
@@ -91,8 +93,8 @@ https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/53
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rt.png?raw=true" group-title="NEWS",RT ARABIC
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-
-
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/egypt.eg.png?raw=true" group-title="EGYPT",Egypt
+https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/asharqdo.ksa.png?raw=true" group-title="DOC",Asharq Doc
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/asharqd.ksa.png?raw=true" group-title="DOC",Asharq Discovery
@@ -284,8 +286,7 @@ https://usher.ttvnw.net/api/channel/hls/almawsleyatv.m3u8?acmb=eyJBcHBWZXJzaW9uI
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/nahrain.iq.png?raw=true" group-title="IRAQ",Al Nahrain
 https://stream.alnahrain.tv/AlnahrainTV/index.fmp4.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="https://yt3.googleusercontent.com/SVrGq49O72tpiSErWaFKxWecEswQh5mUbrvO9BF1BCt8Qzd8D1MWzLZ009TInsD7KRIyvCsJYtc=s900-c-k-c0x00ffffff-no-rj" group-title="EGYPT",Maspiro
-https://edge66.magictvbox.com/liveApple/Maspiro_Zaman/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/bahrain.bh.png?raw=true" group-title="BAHRAIN",Bahrain
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/bahrain2.bh.png?raw=true" group-title="BAHRAIN",Bahrain Int
