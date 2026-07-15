@@ -27,48 +27,45 @@ https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="NEWS",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/abidm8/iptv.ara/refs/heads/main/img/alaraby.qa.png" group-title="NEWS",Al Arabi
-https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alaraby2.qa.png?raw=true" group-title="QATAR",Al Arabi 2
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alghad.png?raw=true" group-title="NEWS",Al Ghad
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/almamlaka.jo.png?raw=true" group-title="NEWS",Al Mamlaka
-https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
+https://fastly.live.brightcove.com/6376826200112/eu-central-1/6415809151001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWlod3RhLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNTgwOTE1MTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1ODA5MTUxMDAxIl0sImp0aSI6IjYzNzY4MjYyMDAxMTIifQ.EBaDAQiDkyoRKYIjLROyrZzKFPcftOUxk4ftmhtVsEk/playlist-hls-dvr.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alhiwar.png?raw=true" group-title="NEWS",Al Hiwar
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/trt.png?raw=true" group-title="NEWS",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/al24news.al.png?raw=true" group-title="NEWS",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="KSA",Al Saudiya Alaan
+#EXTINF:-1  tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ksanow.png?raw=true" group-title="KSA",Al Saudiya Alaan
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/news.kw.png?raw=true" group-title="NEWS",Kuwait News
 https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/almashhad.png?raw=true" group-title="NEWS",Al Mash-had
 https://fastly.live.brightcove.com/6385343550112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzODUzNDM1NTAxMTIifQ.OXCUOblTM-ZkjiyDxPav01or3H6GE5cbGOp1qXlLERk/playlist-hls-dvr.m3u8
-
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alarabiya.png?raw=true" group-title="NEWS",Al Arabiyyah
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alhadath.png?raw=true" group-title="NEWS",Al Hadath
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alarabiya-p.jpg?raw=true" group-title="NEWS",Al Arab Programs
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
-
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/news.ksa.png?raw=true" group-title="NEWS",Saudi News
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/watan.eg.png?raw=true" group-title="NEWS",Watan Eg
 https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sharq.eg.png?raw=true" group-title="NEWS",Elsharq Eg
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mkammilin.eg.png?raw=true" group-title="NEWS",Mkammileen Eg
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shuoob.eg.png?raw=true" group-title="NEWS",AlShoob tv
-https://play.tactivemedia.com/memfs/c5919b97-5329-4b84-91b2-613c6ed9953e.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/news.iq.png?raw=true" group-title="NEWS",Al Iraqia News
 https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/inews.png?raw=true" group-title="NEWS",INEWS
 https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/asharq.ksa.png?raw=true" group-title="NEWS",Asharq News
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/ch9.png?raw=true" group-title="NEWS",Channel 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/almayadin.png?raw=true" group-title="NEWS",Al Mayadeen
@@ -83,20 +80,14 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/france24.png?raw=true" group-title="NEWS",France 24
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/MonteCarloDoualiya_2013.svg/1024px-MonteCarloDoualiya_2013.svg.png" group-title="NEWS",MCD
-https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alhurra.png?raw=true" group-title="NEWS",Al Hurra
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900-b/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/i24.png?raw=true" group-title="NEWS",i24 Arabic
-https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/dw.png?raw=true" group-title="NEWS",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rt.png?raw=true" group-title="NEWS",RT ARABIC
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/egypt.eg.png?raw=true" group-title="EGYPT",Egypt
-https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
-
-
+http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/asharqdo.ksa.png?raw=true" group-title="DOC",Asharq Doc
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/asharqd.ksa.png?raw=true" group-title="DOC",Asharq Discovery
