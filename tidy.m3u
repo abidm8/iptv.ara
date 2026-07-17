@@ -40,7 +40,7 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/egypt.eg.png?raw=true" group-title="EGYPT" :http-referrer="" :http-user-agent="",Egypt
 http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sharqa.ae.png?raw=true" group-title="UAE" :http-referrer="" :http-user-agent="",Al Sharjah
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alwusta.ae.png?raw=true" group-title="UAE" :http-referrer="" :http-user-agent="",Al Wusta
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil//playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/kalbaa.ae.png?raw=true" group-title="UAE" :http-referrer="" :http-user-agent="",Al Sharqiya Kalbaa
