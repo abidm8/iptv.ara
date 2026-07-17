@@ -91,6 +91,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfef
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mbc2.eg.png?raw=true" group-title="MBC" :http-referrer="" :http-user-agent="",MBC Egypt 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mbc4.png?raw=true" group-title="MBC" :http-referrer="" :http-user-agent="",MBC4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mbc.iq.png?raw=true" group-title="MBC" :http-referrer="" :http-user-agent="",MBC Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mbc.mo.png?raw=true" group-title="MBC" :http-referrer="" :http-user-agent="",MBC5
@@ -249,8 +251,7 @@ https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIzNDMxNTUyMGRlNjE5YTQzZmExMjA0N2NjMTA2ZDFkZSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzQ5MjgyNTA4LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.N3JWlZCdMmq19chWwvOt7vamBlkMCRNvca-AQs1AisCeczVxCBmxZxG52pTTHPJnFqTOHMSN8WNYYXQ9LzrBNvJfTtvwTyrEj6K3bgrGHYpEY9UPzTDNbI90B83R28foH6JFVHuZIXlTD-otLETctcvGNDb4xO5TKlUwp3UaNlDRDya42cq8X5HnsQwij39yvAlxXDrSo9rlYWZHt-ElmEgLu8VFc345OhujDIhbYeRufXag-g0art2CX6ffyeDAM5F57D6UDULL1DK2Pcs3DWiLJFW30ofVal2ZKwUoWMJOqsWVPUdvexmb5jrJtY8U2Tg0fWNW8dvCmWEm6aXPfw/manifest/video.m3u8?CMCD=cid%3D%221749239309653%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22dd239c0e-24a7-43e7-be62-7dbe766c0886%22%2Csu
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shada.mo.png?raw=true" group-title="MUSIC" :http-referrer="" :http-user-agent="",Shada tv
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mbc4.png?raw=true" group-title="MBC" :http-referrer="" :http-user-agent="",MBC4
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/mbc.drama.png?raw=true" group-title="MBC" :http-referrer="" :http-user-agent="",MBC Drama
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shahid.izna.png?raw=true" group-title="MBC" :http-referrer="" :http-user-agent="",Izna
