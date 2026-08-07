@@ -1,16 +1,20 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alquran.ksa.png?raw=true" group-title="KSA" :http-referrer="" :http-user-agent="",Al Quran Makkah
-https://aloula-redirect.vercel.app/7/playlist.m3u8
+#EXTINF:-1 tvg-id="QatarTVTheHolyQuran.qa@HD",The Holy Quran - Qatar
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/quran.ae.png?raw=true" group-title="UAE" :http-referrer="" :http-user-agent="",Al Quran Shrja
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sunnah.ksa.png?raw=true" group-title="KSA" :http-referrer="" :http-user-agent="",AsSunnah
-https://aloula-redirect.vercel.app/6/playlist.m3u8
+
+
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeera.qa.png?raw=true" group-title="NEWS" :http-referrer="" :http-user-agent="",Al Jazeera
 https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jaz2.png?raw=true" group-title="NEWS" :http-referrer="" :http-user-agent="",Al Jazeera 2
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeeram.qa.png?raw=true" group-title="NEWS" :http-referrer="" :http-user-agent="",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa@SD",Al Jazeera Mubasher 24 (1080p)
+https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/abidm8/iptv.ara/refs/heads/main/img/alaraby.qa.png" group-title="NEWS" :http-referrer="" :http-user-agent="",Al Arabi
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/almamlaka.jo.png?raw=true" group-title="NEWS" :http-referrer="" :http-user-agent="",Al Mamlaka
@@ -31,8 +35,7 @@ http://93.184.10.248/JordanSport/index.m3u8
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/saudi.ksa.png?raw=true" group-title="KSA" :http-referrer="" :http-user-agent="",Saudi 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/abidm8/iptv.ara/refs/heads/main/img/thikrayat.sa.png" group-title="KSA" :http-referrer="" :http-user-agent="",Thikrayat tv
-https://aloula-redirect.vercel.app/3/playlist.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sbc.ksa.png?raw=true" group-title="KSA" :http-referrer="" :http-user-agent="",SBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/skynews.png?raw=true" group-title="NEWS" :http-referrer="" :http-user-agent="",Sky News Arabia
@@ -74,6 +77,17 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/playllist.m3u8
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/iraq.iq.png?raw=true" group-title="IRAQ" :http-referrer="" :http-user-agent="",Iraq tv
 https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
+#EXTINF:-1 tvg-id="LibyaAlAhrarTV.qa@SD",Libya Al Ahrar TV
+#EXTVLCOPT:http-referrer=https://player.castr.com
+https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="AlSouriyaTV.sy@HD",Al-Souriya TV (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
+#EXTINF:-1 tvg-id="HalabTodayTV.sy@SD",Halab Today TV (1080p)
+https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD",Alikhbaria Syria (1080p)
+http://185.9.2.18/chid_423/index.m3u8
+#EXTINF:-1 tvg-id="Prime.sy@HD",Prime (1080p)
+https://mn-nl.mncdn.com/primetv/live/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/oula.iq.png?raw=true" group-title="IRAQ" :http-referrer="" :http-user-agent="",Al Oula Iraq
 https://live.alawla.tv/hls/2/stream.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/rashid.iq.png?raw=true" group-title="IRAQ" :http-referrer="" :http-user-agent="",Al Rasheed
@@ -134,6 +148,8 @@ https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/news.iq.png?raw=true" group-title="NEWS" :http-referrer="" :http-user-agent="",Al Iraqia News
 https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
+#EXTINF:-1 tvg-id="QBC.qa@HD",QBC (1080p)
+https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="NEWS" :http-referrer="" :http-user-agent="",Morocco news
 http://185.9.2.18/chid_205/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/inews.png?raw=true" group-title="NEWS" :http-referrer="" :http-user-agent="",INEWS
@@ -343,21 +359,28 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sport.om.png?raw=true" group-title="SPORT" :http-referrer="" :http-user-agent="",Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playllist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass1.png?raw=trueg" group-title="SPORT" :http-referrer="" :http-user-agent="",Al Kass 1
-https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=alkass1&t=11111111
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass2.png?raw=true" group-title="SPORT" :http-referrer="" :http-user-agent="",Al Kass 2
-https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=alkass2&t=11111111
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass3.png?raw=true" group-title="SPORT" :http-referrer="" :http-user-agent="",Al Kass 3
-https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=alkass3&t=11111111
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass4.png?raw=true" group-title="SPORT" :http-referrer="" :http-user-agent="",Al Kass 4
-https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=alkass4&t=11111111
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 tvg-id="AlkassFive.qa@SD",Alkass 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 tvg-id="AlkassSix.qa@SD",Alkass 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass.shoof.png?raw=true" group-title="SPORT" :http-referrer="" :http-user-agent="",Al Kass SHOOF
-https://storage.googleapis.com/alkass6-bucket/livestream/shoof/main.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png" group-title="SPORT" :http-referrer="" :http-user-agent="",ksa sport 1
-https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_sport1&t=11111111
-#EXTINF:-1  tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png" group-title="SPORT" :http-referrer="" :http-user-agent="",ksa sport 2
-https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_sport2&t=11111111
-#EXTINF:-1  tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/2d/ee/fullhd_f1d461237592b4d46c44a6f300df1d97051f7c55.png" group-title="SPORT" :http-referrer="" :http-user-agent="",ksa sport 3
-https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_sport3&t=11111111
+https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
+#EXTINF:-1 tvg-id="AlkassSHOOF2.qa@SD",Alkass SHOOF 2
+https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1  tvg-id="2MMonde.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="MOROCCO" :http-referrer="https://2m.ma" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://2m.ma
@@ -372,12 +395,23 @@ https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m
 
 
 
-
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/one.ae.png?raw=true" group-title="UAE" :http-referrer="" :http-user-agent="",Dubai One
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/zaman.ae.png?raw=true" group-title="UAE" :http-referrer="" :http-user-agent="",Dubai Zaman
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/noor.ae.png?raw=true" group-title="UAE" :http-referrer="" :http-user-agent="",Noor Dubai
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sharqa2.ae.png?raw=true" group-title="UAE" :http-referrer="" :http-user-agent="",Al Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/one.ae.png?raw=true" group-title="UAE" :http-referrer="" :http-user-agent="",Dubai One
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alquran.ksa.png?raw=true" group-title="KSA" :http-referrer="" :http-user-agent="",Al Quran Makkah
+https://aloula-redirect.vercel.app/7/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sunnah.ksa.png?raw=true" group-title="KSA" :http-referrer="" :http-user-agent="",AsSunnah
+https://aloula-redirect.vercel.app/6/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/abidm8/iptv.ara/refs/heads/main/img/thikrayat.sa.png" group-title="KSA" :http-referrer="" :http-user-agent="",Thikrayat tv
+https://aloula-redirect.vercel.app/3/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png" group-title="SPORT" :http-referrer="" :http-user-agent="",ksa sport 1
+https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_sport1&t=11111111
+#EXTINF:-1  tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png" group-title="SPORT" :http-referrer="" :http-user-agent="",ksa sport 2
+https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_sport2&t=11111111
+#EXTINF:-1  tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/2d/ee/fullhd_f1d461237592b4d46c44a6f300df1d97051f7c55.png" group-title="SPORT" :http-referrer="" :http-user-agent="",ksa sport 3
+https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_sport3&t=11111111
