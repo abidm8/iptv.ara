@@ -6,6 +6,9 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alquran.ksa.png?raw=true" group-title="KSA",Quran Channel
 #EXTVLCOPT:http-referrer=https://aloula.sba.sa/live/quran
 https://stream!!
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sunnah.ksa.png?raw=true" group-title="KSA" ,AsSunnah
+#EXTVLCOPT:http-referrer=https://aloula.sba.sa/live/sunna
+https://stream!!
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/jazeera.qa.png?raw=true" group-title="NEWS" :http-referrer="" :http-user-agent="",Al Jazeera
 https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
@@ -408,8 +411,7 @@ https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alquran.ksa.png?raw=true" group-title="KSA" :http-referrer="" :http-user-agent="",Al Quran Makkah
 https://aloula-redirect.vercel.app/7/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sunnah.ksa.png?raw=true" group-title="KSA" :http-referrer="" :http-user-agent="",AsSunnah
-https://aloula-redirect.vercel.app/6/playlist.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/abidm8/iptv.ara/refs/heads/main/img/thikrayat.sa.png" group-title="KSA" :http-referrer="" :http-user-agent="",Thikrayat tv
 https://aloula-redirect.vercel.app/3/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png" group-title="SPORT" :http-referrer="" :http-user-agent="",ksa sport 1
